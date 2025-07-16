@@ -1,0 +1,6698 @@
+[
+  {
+    "tag": "e-commerce",
+    "count": 198
+  },
+  {
+    "tag": "retail",
+    "count": 100
+  },
+  {
+    "tag": "accessories",
+    "count": 79
+  },
+  {
+    "tag": "fashion",
+    "count": 78
+  },
+  {
+    "tag": "clothing",
+    "count": 67
+  },
+  {
+    "tag": "shopping",
+    "count": 61
+  },
+  {
+    "tag": "online shopping",
+    "count": 58
+  },
+  {
+    "tag": "apparel",
+    "count": 40
+  },
+  {
+    "tag": "electronics",
+    "count": 32
+  },
+  {
+    "tag": "sales",
+    "count": 30
+  },
+  {
+    "tag": "products",
+    "count": 28
+  },
+  {
+    "tag": "discounts",
+    "count": 24
+  },
+  {
+    "tag": "shoes",
+    "count": 23
+  },
+  {
+    "tag": "footwear",
+    "count": 18
+  },
+  {
+    "tag": "online",
+    "count": 16
+  },
+  {
+    "tag": "sports",
+    "count": 16
+  },
+  {
+    "tag": "bags",
+    "count": 16
+  },
+  {
+    "tag": "beauty",
+    "count": 15
+  },
+  {
+    "tag": "jewelry",
+    "count": 15
+  },
+  {
+    "tag": "gifts",
+    "count": 14
+  },
+  {
+    "tag": "collectibles",
+    "count": 14
+  },
+  {
+    "tag": "lifestyle",
+    "count": 13
+  },
+  {
+    "tag": "subscription",
+    "count": 12
+  },
+  {
+    "tag": "education",
+    "count": 12
+  },
+  {
+    "tag": "news",
+    "count": 12
+  },
+  {
+    "tag": "gaming",
+    "count": 12
+  },
+  {
+    "tag": "retail.",
+    "count": 12
+  },
+  {
+    "tag": "dresses",
+    "count": 12
+  },
+  {
+    "tag": "onlineshopping",
+    "count": 12
+  },
+  {
+    "tag": "entertainment",
+    "count": 11
+  },
+  {
+    "tag": "skincare",
+    "count": 11
+  },
+  {
+    "tag": "deals",
+    "count": 11
+  },
+  {
+    "tag": "technology",
+    "count": 11
+  },
+  {
+    "tag": "online store",
+    "count": 11
+  },
+  {
+    "tag": "home goods",
+    "count": 11
+  },
+  {
+    "tag": "health",
+    "count": 11
+  },
+  {
+    "tag": "wellness",
+    "count": 10
+  },
+  {
+    "tag": "online-store",
+    "count": 10
+  },
+  {
+    "tag": "business",
+    "count": 10
+  },
+  {
+    "tag": "tops",
+    "count": 10
+  },
+  {
+    "tag": "travel",
+    "count": 10
+  },
+  {
+    "tag": "customer service",
+    "count": 10
+  },
+  {
+    "tag": "software",
+    "count": 9
+  },
+  {
+    "tag": "merchandise",
+    "count": 9
+  },
+  {
+    "tag": "women",
+    "count": 9
+  },
+  {
+    "tag": "promotions",
+    "count": 9
+  },
+  {
+    "tag": "fitness",
+    "count": 9
+  },
+  {
+    "tag": "outdoor",
+    "count": 9
+  },
+  {
+    "tag": "shopify",
+    "count": 9
+  },
+  {
+    "tag": "tools",
+    "count": 8
+  },
+  {
+    "tag": "hardware",
+    "count": 8
+  },
+  {
+    "tag": "industry",
+    "count": 8
+  },
+  {
+    "tag": "shipping",
+    "count": 8
+  },
+  {
+    "tag": "music",
+    "count": 8
+  },
+  {
+    "tag": "corporate",
+    "count": 8
+  },
+  {
+    "tag": "shopping.",
+    "count": 8
+  },
+  {
+    "tag": "ecommerce",
+    "count": 8
+  },
+  {
+    "tag": "home decor",
+    "count": 8
+  },
+  {
+    "tag": "gear",
+    "count": 7
+  },
+  {
+    "tag": "consumer goods",
+    "count": 7
+  },
+  {
+    "tag": "publishing",
+    "count": 7
+  },
+  {
+    "tag": "gadgets",
+    "count": 7
+  },
+  {
+    "tag": "games",
+    "count": 7
+  },
+  {
+    "tag": "activewear",
+    "count": 7
+  },
+  {
+    "tag": "equipment",
+    "count": 7
+  },
+  {
+    "tag": "membership",
+    "count": 7
+  },
+  {
+    "tag": "cosmetics",
+    "count": 7
+  },
+  {
+    "tag": "books",
+    "count": 7
+  },
+  {
+    "tag": "furniture",
+    "count": 7
+  },
+  {
+    "tag": "analytics",
+    "count": 7
+  },
+  {
+    "tag": "women's fashion",
+    "count": 7
+  },
+  {
+    "tag": "swimwear",
+    "count": 7
+  },
+  {
+    "tag": "luxury",
+    "count": 7
+  },
+  {
+    "tag": "women's wear",
+    "count": 7
+  },
+  {
+    "tag": "retailer",
+    "count": 7
+  },
+  {
+    "tag": "pop culture",
+    "count": 6
+  },
+  {
+    "tag": "consumers",
+    "count": 6
+  },
+  {
+    "tag": "kitchenware",
+    "count": 6
+  },
+  {
+    "tag": "backpacks",
+    "count": 6
+  },
+  {
+    "tag": "gardening",
+    "count": 6
+  },
+  {
+    "tag": "women's clothing",
+    "count": 6
+  },
+  {
+    "tag": "customization",
+    "count": 6
+  },
+  {
+    "tag": "bedding",
+    "count": 6
+  },
+  {
+    "tag": "bottoms",
+    "count": 6
+  },
+  {
+    "tag": "personal care",
+    "count": 6
+  },
+  {
+    "tag": "store",
+    "count": 6
+  },
+  {
+    "tag": "sunglasses",
+    "count": 6
+  },
+  {
+    "tag": "brands",
+    "count": 6
+  },
+  {
+    "tag": "outdoor gear",
+    "count": 6
+  },
+  {
+    "tag": "smart home",
+    "count": 5
+  },
+  {
+    "tag": "automation",
+    "count": 5
+  },
+  {
+    "tag": "homeowners",
+    "count": 5
+  },
+  {
+    "tag": "outdoors",
+    "count": 5
+  },
+  {
+    "tag": "online-shopping",
+    "count": 5
+  },
+  {
+    "tag": "finance",
+    "count": 5
+  },
+  {
+    "tag": "diy",
+    "count": 5
+  },
+  {
+    "tag": "shipping.",
+    "count": 5
+  },
+  {
+    "tag": "events",
+    "count": 5
+  },
+  {
+    "tag": "tech",
+    "count": 5
+  },
+  {
+    "tag": "haircare",
+    "count": 5
+  },
+  {
+    "tag": "makeup",
+    "count": 5
+  },
+  {
+    "tag": "toys",
+    "count": 5
+  },
+  {
+    "tag": "headphones",
+    "count": 5
+  },
+  {
+    "tag": "charity",
+    "count": 5
+  },
+  {
+    "tag": "sustainability",
+    "count": 5
+  },
+  {
+    "tag": "food",
+    "count": 5
+  },
+  {
+    "tag": "discount",
+    "count": 5
+  },
+  {
+    "tag": "t-shirts",
+    "count": 5
+  },
+  {
+    "tag": "cycling",
+    "count": 5
+  },
+  {
+    "tag": "hats",
+    "count": 5
+  },
+  {
+    "tag": "handbags",
+    "count": 5
+  },
+  {
+    "tag": "boots",
+    "count": 5
+  },
+  {
+    "tag": "luggage",
+    "count": 5
+  },
+  {
+    "tag": "sneakers",
+    "count": 5
+  },
+  {
+    "tag": "services",
+    "count": 5
+  },
+  {
+    "tag": "menswear",
+    "count": 5
+  },
+  {
+    "tag": "home improvement",
+    "count": 4
+  },
+  {
+    "tag": "home security",
+    "count": 4
+  },
+  {
+    "tag": "lighting",
+    "count": 4
+  },
+  {
+    "tag": "sensors",
+    "count": 4
+  },
+  {
+    "tag": "hiking",
+    "count": 4
+  },
+  {
+    "tag": "family",
+    "count": 4
+  },
+  {
+    "tag": "home appliances",
+    "count": 4
+  },
+  {
+    "tag": "platform",
+    "count": 4
+  },
+  {
+    "tag": "mobile",
+    "count": 4
+  },
+  {
+    "tag": "apps",
+    "count": 4
+  },
+  {
+    "tag": "students",
+    "count": 4
+  },
+  {
+    "tag": "marketplace",
+    "count": 4
+  },
+  {
+    "tag": "tablets",
+    "count": 4
+  },
+  {
+    "tag": "audio",
+    "count": 4
+  },
+  {
+    "tag": "online shopping.",
+    "count": 4
+  },
+  {
+    "tag": "donations",
+    "count": 4
+  },
+  {
+    "tag": "marketing",
+    "count": 4
+  },
+  {
+    "tag": "watches",
+    "count": 4
+  },
+  {
+    "tag": "rewards",
+    "count": 4
+  },
+  {
+    "tag": "healthcare",
+    "count": 4
+  },
+  {
+    "tag": "sale",
+    "count": 4
+  },
+  {
+    "tag": "advertising",
+    "count": 4
+  },
+  {
+    "tag": "computer",
+    "count": 4
+  },
+  {
+    "tag": "appliances",
+    "count": 4
+  },
+  {
+    "tag": "returns",
+    "count": 4
+  },
+  {
+    "tag": "women's",
+    "count": 4
+  },
+  {
+    "tag": "supplements",
+    "count": 4
+  },
+  {
+    "tag": "snacks",
+    "count": 4
+  },
+  {
+    "tag": "wholesale",
+    "count": 4
+  },
+  {
+    "tag": "discounted",
+    "count": 4
+  },
+  {
+    "tag": "shirts",
+    "count": 4
+  },
+  {
+    "tag": "home",
+    "count": 4
+  },
+  {
+    "tag": "womenswear",
+    "count": 4
+  },
+  {
+    "tag": "men",
+    "count": 4
+  },
+  {
+    "tag": "india",
+    "count": 4
+  },
+  {
+    "tag": "camping",
+    "count": 4
+  },
+  {
+    "tag": "cameras",
+    "count": 3
+  },
+  {
+    "tag": "community",
+    "count": 3
+  },
+  {
+    "tag": "photography",
+    "count": 3
+  },
+  {
+    "tag": "relationships",
+    "count": 3
+  },
+  {
+    "tag": "consumer electronics",
+    "count": 3
+  },
+  {
+    "tag": "mobile devices",
+    "count": 3
+  },
+  {
+    "tag": "developers",
+    "count": 3
+  },
+  {
+    "tag": "wallets",
+    "count": 3
+  },
+  {
+    "tag": "onlinestore",
+    "count": 3
+  },
+  {
+    "tag": "global",
+    "count": 3
+  },
+  {
+    "tag": "laptops",
+    "count": 3
+  },
+  {
+    "tag": "audio equipment",
+    "count": 3
+  },
+  {
+    "tag": "kids",
+    "count": 3
+  },
+  {
+    "tag": "families",
+    "count": 3
+  },
+  {
+    "tag": "athleisure",
+    "count": 3
+  },
+  {
+    "tag": "shorts",
+    "count": 3
+  },
+  {
+    "tag": "running",
+    "count": 3
+  },
+  {
+    "tag": "culture",
+    "count": 3
+  },
+  {
+    "tag": "collaborations",
+    "count": 3
+  },
+  {
+    "tag": "casualwear",
+    "count": 3
+  },
+  {
+    "tag": "youngadults",
+    "count": 3
+  },
+  {
+    "tag": "military",
+    "count": 3
+  },
+  {
+    "tag": "tourism",
+    "count": 3
+  },
+  {
+    "tag": "eco-friendly products",
+    "count": 3
+  },
+  {
+    "tag": "magazines",
+    "count": 3
+  },
+  {
+    "tag": "lingerie",
+    "count": 3
+  },
+  {
+    "tag": "recipes",
+    "count": 3
+  },
+  {
+    "tag": "enthusiasts",
+    "count": 3
+  },
+  {
+    "tag": "kitchen",
+    "count": 3
+  },
+  {
+    "tag": "gourmet",
+    "count": 3
+  },
+  {
+    "tag": "bookstore",
+    "count": 3
+  },
+  {
+    "tag": "politics",
+    "count": 3
+  },
+  {
+    "tag": "literature",
+    "count": 3
+  },
+  {
+    "tag": "sustainable",
+    "count": 3
+  },
+  {
+    "tag": "men's shoes",
+    "count": 3
+  },
+  {
+    "tag": "commerce",
+    "count": 3
+  },
+  {
+    "tag": "ai-powered",
+    "count": 3
+  },
+  {
+    "tag": "support",
+    "count": 3
+  },
+  {
+    "tag": "retailers",
+    "count": 3
+  },
+  {
+    "tag": "hydration",
+    "count": 3
+  },
+  {
+    "tag": "geography",
+    "count": 3
+  },
+  {
+    "tag": "sales.",
+    "count": 3
+  },
+  {
+    "tag": "cookies",
+    "count": 3
+  },
+  {
+    "tag": "consumer products",
+    "count": 3
+  },
+  {
+    "tag": "pet",
+    "count": 3
+  },
+  {
+    "tag": "dog",
+    "count": 3
+  },
+  {
+    "tag": "loyalty",
+    "count": 3
+  },
+  {
+    "tag": "household",
+    "count": 3
+  },
+  {
+    "tag": "collectors",
+    "count": 3
+  },
+  {
+    "tag": "personalization",
+    "count": 3
+  },
+  {
+    "tag": "socks",
+    "count": 3
+  },
+  {
+    "tag": "product reviews",
+    "count": 3
+  },
+  {
+    "tag": "youth",
+    "count": 3
+  },
+  {
+    "tag": "online stores",
+    "count": 3
+  },
+  {
+    "tag": "digital marketing",
+    "count": 3
+  },
+  {
+    "tag": "athletes",
+    "count": 3
+  },
+  {
+    "tag": "teams",
+    "count": 3
+  },
+  {
+    "tag": "players",
+    "count": 3
+  },
+  {
+    "tag": "consumer",
+    "count": 3
+  },
+  {
+    "tag": "goods",
+    "count": 3
+  },
+  {
+    "tag": "sarees",
+    "count": 3
+  },
+  {
+    "tag": "ethnic wear",
+    "count": 3
+  },
+  {
+    "tag": "gamers",
+    "count": 3
+  },
+  {
+    "tag": "personalcare",
+    "count": 3
+  },
+  {
+    "tag": "streetwear",
+    "count": 3
+  },
+  {
+    "tag": "batteries",
+    "count": 3
+  },
+  {
+    "tag": "fragrances",
+    "count": 3
+  },
+  {
+    "tag": "young adults",
+    "count": 3
+  },
+  {
+    "tag": "men's wear",
+    "count": 3
+  },
+  {
+    "tag": "moisturizers",
+    "count": 3
+  },
+  {
+    "tag": "women'swear",
+    "count": 3
+  },
+  {
+    "tag": "pets",
+    "count": 3
+  },
+  {
+    "tag": "clearance",
+    "count": 3
+  },
+  {
+    "tag": "professionals",
+    "count": 3
+  },
+  {
+    "tag": "nonprofit",
+    "count": 3
+  },
+  {
+    "tag": "coffee",
+    "count": 3
+  },
+  {
+    "tag": "leather",
+    "count": 3
+  },
+  {
+    "tag": "security",
+    "count": 2
+  },
+  {
+    "tag": "locks",
+    "count": 2
+  },
+  {
+    "tag": "thermostats",
+    "count": 2
+  },
+  {
+    "tag": "switches",
+    "count": 2
+  },
+  {
+    "tag": "security solutions",
+    "count": 2
+  },
+  {
+    "tag": "recreation",
+    "count": 2
+  },
+  {
+    "tag": "reviews",
+    "count": 2
+  },
+  {
+    "tag": "ratings",
+    "count": 2
+  },
+  {
+    "tag": "small-business",
+    "count": 2
+  },
+  {
+    "tag": "home automation",
+    "count": 2
+  },
+  {
+    "tag": "doorbell cameras",
+    "count": 2
+  },
+  {
+    "tag": "development",
+    "count": 2
+  },
+  {
+    "tag": "cryptocurrency",
+    "count": 2
+  },
+  {
+    "tag": "payments",
+    "count": 2
+  },
+  {
+    "tag": "japan",
+    "count": 2
+  },
+  {
+    "tag": "international",
+    "count": 2
+  },
+  {
+    "tag": "gossip",
+    "count": 2
+  },
+  {
+    "tag": "tickets",
+    "count": 2
+  },
+  {
+    "tag": "smart locks",
+    "count": 2
+  },
+  {
+    "tag": "designers",
+    "count": 2
+  },
+  {
+    "tag": "startups",
+    "count": 2
+  },
+  {
+    "tag": "integrations",
+    "count": 2
+  },
+  {
+    "tag": "collaboration",
+    "count": 2
+  },
+  {
+    "tag": "templates",
+    "count": 2
+  },
+  {
+    "tag": "travel gear",
+    "count": 2
+  },
+  {
+    "tag": "movies",
+    "count": 2
+  },
+  {
+    "tag": "sales promotions",
+    "count": 2
+  },
+  {
+    "tag": "blog",
+    "count": 2
+  },
+  {
+    "tag": "dolls",
+    "count": 2
+  },
+  {
+    "tag": "product showcase",
+    "count": 2
+  },
+  {
+    "tag": "fonts",
+    "count": 2
+  },
+  {
+    "tag": "earbuds",
+    "count": 2
+  },
+  {
+    "tag": "uk",
+    "count": 2
+  },
+  {
+    "tag": "streaming",
+    "count": 2
+  },
+  {
+    "tag": "service",
+    "count": 2
+  },
+  {
+    "tag": "premium",
+    "count": 2
+  },
+  {
+    "tag": "media",
+    "count": 2
+  },
+  {
+    "tag": "celebrity",
+    "count": 2
+  },
+  {
+    "tag": "woocommerce",
+    "count": 2
+  },
+  {
+    "tag": "optimization",
+    "count": 2
+  },
+  {
+    "tag": "app",
+    "count": 2
+  },
+  {
+    "tag": "denim",
+    "count": 2
+  },
+  {
+    "tag": "small business",
+    "count": 2
+  },
+  {
+    "tag": "seo",
+    "count": 2
+  },
+  {
+    "tag": "non-profit",
+    "count": 2
+  },
+  {
+    "tag": "veterans",
+    "count": 2
+  },
+  {
+    "tag": "email",
+    "count": 2
+  },
+  {
+    "tag": "luxury watches",
+    "count": 2
+  },
+  {
+    "tag": "luxury goods",
+    "count": 2
+  },
+  {
+    "tag": "renewable energy",
+    "count": 2
+  },
+  {
+    "tag": "online courses",
+    "count": 2
+  },
+  {
+    "tag": "environmentalism",
+    "count": 2
+  },
+  {
+    "tag": "beauty-products",
+    "count": 2
+  },
+  {
+    "tag": "foundations",
+    "count": 2
+  },
+  {
+    "tag": "sunscreens",
+    "count": 2
+  },
+  {
+    "tag": "returns.",
+    "count": 2
+  },
+  {
+    "tag": "intimates",
+    "count": 2
+  },
+  {
+    "tag": "flowers",
+    "count": 2
+  },
+  {
+    "tag": "plants",
+    "count": 2
+  },
+  {
+    "tag": "delivery services",
+    "count": 2
+  },
+  {
+    "tag": "occasions",
+    "count": 2
+  },
+  {
+    "tag": "cooking",
+    "count": 2
+  },
+  {
+    "tag": "phone cases",
+    "count": 2
+  },
+  {
+    "tag": "gift ideas",
+    "count": 2
+  },
+  {
+    "tag": "women's clothes",
+    "count": 2
+  },
+  {
+    "tag": "entrepreneurship",
+    "count": 2
+  },
+  {
+    "tag": "mattresses",
+    "count": 2
+  },
+  {
+    "tag": "activism",
+    "count": 2
+  },
+  {
+    "tag": "conservation",
+    "count": 2
+  },
+  {
+    "tag": "fundraising",
+    "count": 2
+  },
+  {
+    "tag": "chatbots",
+    "count": 2
+  },
+  {
+    "tag": "smartphones",
+    "count": 2
+  },
+  {
+    "tag": "bicycles",
+    "count": 2
+  },
+  {
+    "tag": "water bottles",
+    "count": 2
+  },
+  {
+    "tag": "air quality",
+    "count": 2
+  },
+  {
+    "tag": "cities",
+    "count": 2
+  },
+  {
+    "tag": "conversion",
+    "count": 2
+  },
+  {
+    "tag": "exhibits",
+    "count": 2
+  },
+  {
+    "tag": "brand",
+    "count": 2
+  },
+  {
+    "tag": "informational",
+    "count": 2
+  },
+  {
+    "tag": "privacy",
+    "count": 2
+  },
+  {
+    "tag": "policies",
+    "count": 2
+  },
+  {
+    "tag": "parenting",
+    "count": 2
+  },
+  {
+    "tag": "warranty",
+    "count": 2
+  },
+  {
+    "tag": "baseball",
+    "count": 2
+  },
+  {
+    "tag": "mlb",
+    "count": 2
+  },
+  {
+    "tag": "gifts.",
+    "count": 2
+  },
+  {
+    "tag": "treats",
+    "count": 2
+  },
+  {
+    "tag": "boxes",
+    "count": 2
+  },
+  {
+    "tag": "hoodies",
+    "count": 2
+  },
+  {
+    "tag": "free shipping",
+    "count": 2
+  },
+  {
+    "tag": "men's",
+    "count": 2
+  },
+  {
+    "tag": "phones",
+    "count": 2
+  },
+  {
+    "tag": "wireless",
+    "count": 2
+  },
+  {
+    "tag": "baskets",
+    "count": 2
+  },
+  {
+    "tag": "directory",
+    "count": 2
+  },
+  {
+    "tag": "protein",
+    "count": 2
+  },
+  {
+    "tag": "health supplements",
+    "count": 2
+  },
+  {
+    "tag": "best sellers",
+    "count": 2
+  },
+  {
+    "tag": "beer",
+    "count": 2
+  },
+  {
+    "tag": "underwear",
+    "count": 2
+  },
+  {
+    "tag": "customer reviews",
+    "count": 2
+  },
+  {
+    "tag": "cookware",
+    "count": 2
+  },
+  {
+    "tag": "decor",
+    "count": 2
+  },
+  {
+    "tag": "household items",
+    "count": 2
+  },
+  {
+    "tag": "e-commerce platform",
+    "count": 2
+  },
+  {
+    "tag": "professional",
+    "count": 2
+  },
+  {
+    "tag": "healthy",
+    "count": 2
+  },
+  {
+    "tag": "b2b",
+    "count": 2
+  },
+  {
+    "tag": "nutrition",
+    "count": 2
+  },
+  {
+    "tag": "business services",
+    "count": 2
+  },
+  {
+    "tag": "grooming",
+    "count": 2
+  },
+  {
+    "tag": "body care",
+    "count": 2
+  },
+  {
+    "tag": "casual wear",
+    "count": 2
+  },
+  {
+    "tag": "discounts.",
+    "count": 2
+  },
+  {
+    "tag": "jackets",
+    "count": 2
+  },
+  {
+    "tag": "graphic design",
+    "count": 2
+  },
+  {
+    "tag": "beverage",
+    "count": 2
+  },
+  {
+    "tag": "jeans",
+    "count": 2
+  },
+  {
+    "tag": "fashiontrends",
+    "count": 2
+  },
+  {
+    "tag": "safety",
+    "count": 2
+  },
+  {
+    "tag": "stationery",
+    "count": 2
+  },
+  {
+    "tag": "formal wear",
+    "count": 2
+  },
+  {
+    "tag": "natural",
+    "count": 2
+  },
+  {
+    "tag": "vegan",
+    "count": 2
+  },
+  {
+    "tag": "textiles",
+    "count": 2
+  },
+  {
+    "tag": "rentals",
+    "count": 2
+  },
+  {
+    "tag": "dinnerware",
+    "count": 2
+  },
+  {
+    "tag": "workwear",
+    "count": 2
+  },
+  {
+    "tag": "consumer-goods",
+    "count": 2
+  },
+  {
+    "tag": "esports",
+    "count": 2
+  },
+  {
+    "tag": "canada",
+    "count": 2
+  },
+  {
+    "tag": "glasses",
+    "count": 2
+  },
+  {
+    "tag": "leagues",
+    "count": 2
+  },
+  {
+    "tag": "converse",
+    "count": 2
+  },
+  {
+    "tag": "organizations",
+    "count": 2
+  },
+  {
+    "tag": "vinyl",
+    "count": 2
+  },
+  {
+    "tag": "storefront",
+    "count": 2
+  },
+  {
+    "tag": "rugs",
+    "count": 2
+  },
+  {
+    "tag": "loungewear",
+    "count": 2
+  },
+  {
+    "tag": "cables",
+    "count": 2
+  },
+  {
+    "tag": "adapters",
+    "count": 2
+  },
+  {
+    "tag": "perfumes",
+    "count": 2
+  },
+  {
+    "tag": "power",
+    "count": 2
+  },
+  {
+    "tag": "subscriptions",
+    "count": 2
+  },
+  {
+    "tag": "fashion.",
+    "count": 2
+  },
+  {
+    "tag": "collection",
+    "count": 2
+  },
+  {
+    "tag": "face care",
+    "count": 2
+  },
+  {
+    "tag": "vintage",
+    "count": 2
+  },
+  {
+    "tag": "pakistan",
+    "count": 2
+  },
+  {
+    "tag": "casual",
+    "count": 2
+  },
+  {
+    "tag": "power tools",
+    "count": 2
+  },
+  {
+    "tag": "cat",
+    "count": 2
+  },
+  {
+    "tag": "travel accessories",
+    "count": 2
+  },
+  {
+    "tag": "sleeping",
+    "count": 2
+  },
+  {
+    "tag": "bundles",
+    "count": 2
+  },
+  {
+    "tag": "sandals",
+    "count": 2
+  },
+  {
+    "tag": "shopping cart",
+    "count": 2
+  },
+  {
+    "tag": "hobbyists",
+    "count": 2
+  },
+  {
+    "tag": "faith",
+    "count": 2
+  },
+  {
+    "tag": "basketball",
+    "count": 2
+  },
+  {
+    "tag": "turntables",
+    "count": 2
+  },
+  {
+    "tag": "heritage",
+    "count": 2
+  },
+  {
+    "tag": "storefronts",
+    "count": 2
+  },
+  {
+    "tag": "serums",
+    "count": 2
+  },
+  {
+    "tag": "spirituality",
+    "count": 2
+  },
+  {
+    "tag": "history",
+    "count": 2
+  },
+  {
+    "tag": "golf",
+    "count": 2
+  },
+  {
+    "tag": "mice",
+    "count": 2
+  },
+  {
+    "tag": "keyboards",
+    "count": 2
+  },
+  {
+    "tag": "skateboarding",
+    "count": 2
+  },
+  {
+    "tag": "medicine",
+    "count": 2
+  },
+  {
+    "tag": "pants",
+    "count": 2
+  },
+  {
+    "tag": "women's shoes",
+    "count": 2
+  },
+  {
+    "tag": "beverages",
+    "count": 2
+  },
+  {
+    "tag": "earphones",
+    "count": 2
+  },
+  {
+    "tag": "dacs",
+    "count": 2
+  },
+  {
+    "tag": "audiophiles",
+    "count": 2
+  },
+  {
+    "tag": "music enthusiasts",
+    "count": 2
+  },
+  {
+    "tag": "digital audio players",
+    "count": 2
+  },
+  {
+    "tag": "face washes",
+    "count": 2
+  },
+  {
+    "tag": "comfort",
+    "count": 2
+  },
+  {
+    "tag": "cosplay",
+    "count": 2
+  },
+  {
+    "tag": "shoes.",
+    "count": 2
+  },
+  {
+    "tag": "indian clothing",
+    "count": 2
+  },
+  {
+    "tag": "data",
+    "count": 2
+  },
+  {
+    "tag": "animals",
+    "count": 2
+  },
+  {
+    "tag": "bulbs",
+    "count": 1
+  },
+  {
+    "tag": "vacuums",
+    "count": 1
+  },
+  {
+    "tag": "iot",
+    "count": 1
+  },
+  {
+    "tag": "doorbells",
+    "count": 1
+  },
+  {
+    "tag": "alarm systems",
+    "count": 1
+  },
+  {
+    "tag": "dimmers",
+    "count": 1
+  },
+  {
+    "tag": "refurbished products",
+    "count": 1
+  },
+  {
+    "tag": "renters",
+    "count": 1
+  },
+  {
+    "tag": "trails",
+    "count": 1
+  },
+  {
+    "tag": "planning",
+    "count": 1
+  },
+  {
+    "tag": "security-cameras",
+    "count": 1
+  },
+  {
+    "tag": "robot-vacuums",
+    "count": 1
+  },
+  {
+    "tag": "lawn-mowers",
+    "count": 1
+  },
+  {
+    "tag": "home-automation",
+    "count": 1
+  },
+  {
+    "tag": "smart-products",
+    "count": 1
+  },
+  {
+    "tag": "smart homes",
+    "count": 1
+  },
+  {
+    "tag": "security cameras",
+    "count": 1
+  },
+  {
+    "tag": "air purifiers",
+    "count": 1
+  },
+  {
+    "tag": "tvs",
+    "count": 1
+  },
+  {
+    "tag": "sound bars",
+    "count": 1
+  },
+  {
+    "tag": "smart lighting",
+    "count": 1
+  },
+  {
+    "tag": "surveillance cameras",
+    "count": 1
+  },
+  {
+    "tag": "home safety",
+    "count": 1
+  },
+  {
+    "tag": "smart devices.",
+    "count": 1
+  },
+  {
+    "tag": "testing",
+    "count": 1
+  },
+  {
+    "tag": "cloud",
+    "count": 1
+  },
+  {
+    "tag": "browser",
+    "count": 1
+  },
+  {
+    "tag": "websites",
+    "count": 1
+  },
+  {
+    "tag": "accessibility",
+    "count": 1
+  },
+  {
+    "tag": "frameworks.",
+    "count": 1
+  },
+  {
+    "tag": "hardware wallets",
+    "count": 1
+  },
+  {
+    "tag": "blockchain",
+    "count": 1
+  },
+  {
+    "tag": "cryptocurrencies",
+    "count": 1
+  },
+  {
+    "tag": "crypto",
+    "count": 1
+  },
+  {
+    "tag": "ledger",
+    "count": 1
+  },
+  {
+    "tag": "coin",
+    "count": 1
+  },
+  {
+    "tag": "tokens.",
+    "count": 1
+  },
+  {
+    "tag": "energy efficiency",
+    "count": 1
+  },
+  {
+    "tag": "manuals",
+    "count": 1
+  },
+  {
+    "tag": "repair",
+    "count": 1
+  },
+  {
+    "tag": "guides",
+    "count": 1
+  },
+  {
+    "tag": "logistics.",
+    "count": 1
+  },
+  {
+    "tag": "rakuten",
+    "count": 1
+  },
+  {
+    "tag": "rakuma",
+    "count": 1
+  },
+  {
+    "tag": "zozotown",
+    "count": 1
+  },
+  {
+    "tag": "celebrities",
+    "count": 1
+  },
+  {
+    "tag": "influencers",
+    "count": 1
+  },
+  {
+    "tag": "residential",
+    "count": 1
+  },
+  {
+    "tag": "door locks",
+    "count": 1
+  },
+  {
+    "tag": "keypad locks",
+    "count": 1
+  },
+  {
+    "tag": "fingerprint locks",
+    "count": 1
+  },
+  {
+    "tag": "remote access",
+    "count": 1
+  },
+  {
+    "tag": "internet of things",
+    "count": 1
+  },
+  {
+    "tag": "iot devices",
+    "count": 1
+  },
+  {
+    "tag": "voice assistants.",
+    "count": 1
+  },
+  {
+    "tag": "businesses",
+    "count": 1
+  },
+  {
+    "tag": "agencies",
+    "count": 1
+  },
+  {
+    "tag": "creative",
+    "count": 1
+  },
+  {
+    "tag": "platforms",
+    "count": 1
+  },
+  {
+    "tag": "design",
+    "count": 1
+  },
+  {
+    "tag": "canvas",
+    "count": 1
+  },
+  {
+    "tag": "animation",
+    "count": 1
+  },
+  {
+    "tag": "plugins",
+    "count": 1
+  },
+  {
+    "tag": "framer",
+    "count": 1
+  },
+  {
+    "tag": "computers",
+    "count": 1
+  },
+  {
+    "tag": "gaming consoles",
+    "count": 1
+  },
+  {
+    "tag": "smart home devices",
+    "count": 1
+  },
+  {
+    "tag": "outdoor living",
+    "count": 1
+  },
+  {
+    "tag": "tv shows",
+    "count": 1
+  },
+  {
+    "tag": "musical instruments",
+    "count": 1
+  },
+  {
+    "tag": "online coupons",
+    "count": 1
+  },
+  {
+    "tag": "bundle deals.",
+    "count": 1
+  },
+  {
+    "tag": "magazine",
+    "count": 1
+  },
+  {
+    "tag": "beautyproducts",
+    "count": 1
+  },
+  {
+    "tag": "reviews.",
+    "count": 1
+  },
+  {
+    "tag": "barbie",
+    "count": 1
+  },
+  {
+    "tag": "action figures",
+    "count": 1
+  },
+  {
+    "tag": "mattel",
+    "count": 1
+  },
+  {
+    "tag": "toys online",
+    "count": 1
+  },
+  {
+    "tag": "toy brands",
+    "count": 1
+  },
+  {
+    "tag": "brand portfolio",
+    "count": 1
+  },
+  {
+    "tag": "industry news",
+    "count": 1
+  },
+  {
+    "tag": "playsets",
+    "count": 1
+  },
+  {
+    "tag": "innovation",
+    "count": 1
+  },
+  {
+    "tag": "products.",
+    "count": 1
+  },
+  {
+    "tag": "typography",
+    "count": 1
+  },
+  {
+    "tag": "graphic-design",
+    "count": 1
+  },
+  {
+    "tag": "foundry",
+    "count": 1
+  },
+  {
+    "tag": "digital-products",
+    "count": 1
+  },
+  {
+    "tag": "design-resources",
+    "count": 1
+  },
+  {
+    "tag": "typefaces",
+    "count": 1
+  },
+  {
+    "tag": "printing-supplies",
+    "count": 1
+  },
+  {
+    "tag": "speakers",
+    "count": 1
+  },
+  {
+    "tag": "smartwatches",
+    "count": 1
+  },
+  {
+    "tag": "filters.",
+    "count": 1
+  },
+  {
+    "tag": "networking",
+    "count": 1
+  },
+  {
+    "tag": "wifi",
+    "count": 1
+  },
+  {
+    "tag": "gym clothes",
+    "count": 1
+  },
+  {
+    "tag": "leggings",
+    "count": 1
+  },
+  {
+    "tag": "sports bras",
+    "count": 1
+  },
+  {
+    "tag": "weightlifting",
+    "count": 1
+  },
+  {
+    "tag": "bodybuilding",
+    "count": 1
+  },
+  {
+    "tag": "student discount",
+    "count": 1
+  },
+  {
+    "tag": "product guides",
+    "count": 1
+  },
+  {
+    "tag": "style tips",
+    "count": 1
+  },
+  {
+    "tag": "workout content",
+    "count": 1
+  },
+  {
+    "tag": "e-store",
+    "count": 1
+  },
+  {
+    "tag": "instruments",
+    "count": 1
+  },
+  {
+    "tag": "guitars",
+    "count": 1
+  },
+  {
+    "tag": "amplifiers",
+    "count": 1
+  },
+  {
+    "tag": "musicians",
+    "count": 1
+  },
+  {
+    "tag": "sound",
+    "count": 1
+  },
+  {
+    "tag": "tvshows",
+    "count": 1
+  },
+  {
+    "tag": "originalcontent",
+    "count": 1
+  },
+  {
+    "tag": "newreleases",
+    "count": 1
+  },
+  {
+    "tag": "classics",
+    "count": 1
+  },
+  {
+    "tag": "familyfriendly",
+    "count": 1
+  },
+  {
+    "tag": "guildmembership",
+    "count": 1
+  },
+  {
+    "tag": "adfree",
+    "count": 1
+  },
+  {
+    "tag": "exclusiveperks",
+    "count": 1
+  },
+  {
+    "tag": "individuals",
+    "count": 1
+  },
+  {
+    "tag": "cinema",
+    "count": 1
+  },
+  {
+    "tag": "television",
+    "count": 1
+  },
+  {
+    "tag": "videoondemand",
+    "count": 1
+  },
+  {
+    "tag": "vod.",
+    "count": 1
+  },
+  {
+    "tag": "pop",
+    "count": 1
+  },
+  {
+    "tag": "film",
+    "count": 1
+  },
+  {
+    "tag": "tv",
+    "count": 1
+  },
+  {
+    "tag": "interviews",
+    "count": 1
+  },
+  {
+    "tag": "web-development",
+    "count": 1
+  },
+  {
+    "tag": "wordpress-themes",
+    "count": 1
+  },
+  {
+    "tag": "e-commerce-services",
+    "count": 1
+  },
+  {
+    "tag": "website-design",
+    "count": 1
+  },
+  {
+    "tag": "freelance-platform",
+    "count": 1
+  },
+  {
+    "tag": "custom-websites",
+    "count": 1
+  },
+  {
+    "tag": "web-hosting",
+    "count": 1
+  },
+  {
+    "tag": "online-marketing",
+    "count": 1
+  },
+  {
+    "tag": "digital-agency",
+    "count": 1
+  },
+  {
+    "tag": "business-solutions",
+    "count": 1
+  },
+  {
+    "tag": "entrepreneurs",
+    "count": 1
+  },
+  {
+    "tag": "small-businesses",
+    "count": 1
+  },
+  {
+    "tag": "seo-optimization",
+    "count": 1
+  },
+  {
+    "tag": "google-analytics",
+    "count": 1
+  },
+  {
+    "tag": "facebook-pixel",
+    "count": 1
+  },
+  {
+    "tag": "social-media-integration",
+    "count": 1
+  },
+  {
+    "tag": "mailchimp",
+    "count": 1
+  },
+  {
+    "tag": "plugin-setup",
+    "count": 1
+  },
+  {
+    "tag": "content-migration",
+    "count": 1
+  },
+  {
+    "tag": "theme-customization",
+    "count": 1
+  },
+  {
+    "tag": "website-adjustments",
+    "count": 1
+  },
+  {
+    "tag": "content-creation",
+    "count": 1
+  },
+  {
+    "tag": "ai-integration",
+    "count": 1
+  },
+  {
+    "tag": "google-cloud-platform",
+    "count": 1
+  },
+  {
+    "tag": "elementor-page-builder",
+    "count": 1
+  },
+  {
+    "tag": "genesis-framework",
+    "count": 1
+  },
+  {
+    "tag": "jacqueline-theme",
+    "count": 1
+  },
+  {
+    "tag": "anesta-theme",
+    "count": 1
+  },
+  {
+    "tag": "next-button-scroll",
+    "count": 1
+  },
+  {
+    "tag": "above-the-fold-animation",
+    "count": 1
+  },
+  {
+    "tag": "shop-page-redesign",
+    "count": 1
+  },
+  {
+    "tag": "iubenda-consent-form",
+    "count": 1
+  },
+  {
+    "tag": "digital-services",
+    "count": 1
+  },
+  {
+    "tag": "consulting-business",
+    "count": 1
+  },
+  {
+    "tag": "web-design",
+    "count": 1
+  },
+  {
+    "tag": "residential security",
+    "count": 1
+  },
+  {
+    "tag": "lock accessories",
+    "count": 1
+  },
+  {
+    "tag": "adventure",
+    "count": 1
+  },
+  {
+    "tag": "eastpak",
+    "count": 1
+  },
+  {
+    "tag": "star-wars",
+    "count": 1
+  },
+  {
+    "tag": "pokemon",
+    "count": 1
+  },
+  {
+    "tag": "shoulder-bags",
+    "count": 1
+  },
+  {
+    "tag": "duffel-packs",
+    "count": 1
+  },
+  {
+    "tag": "video",
+    "count": 1
+  },
+  {
+    "tag": "content",
+    "count": 1
+  },
+  {
+    "tag": "originals",
+    "count": 1
+  },
+  {
+    "tag": "films",
+    "count": 1
+  },
+  {
+    "tag": "comedy",
+    "count": 1
+  },
+  {
+    "tag": "basic",
+    "count": 1
+  },
+  {
+    "tag": "ad-free",
+    "count": 1
+  },
+  {
+    "tag": "linen",
+    "count": 1
+  },
+  {
+    "tag": "preloved",
+    "count": 1
+  },
+  {
+    "tag": "wordpress themes",
+    "count": 1
+  },
+  {
+    "tag": "web development",
+    "count": 1
+  },
+  {
+    "tag": "corporate sector",
+    "count": 1
+  },
+  {
+    "tag": "wordpress marketplace",
+    "count": 1
+  },
+  {
+    "tag": "website templates",
+    "count": 1
+  },
+  {
+    "tag": "responsive design",
+    "count": 1
+  },
+  {
+    "tag": "customization options",
+    "count": 1
+  },
+  {
+    "tag": "theme bundles",
+    "count": 1
+  },
+  {
+    "tag": "online store themes",
+    "count": 1
+  },
+  {
+    "tag": "blog themes",
+    "count": 1
+  },
+  {
+    "tag": "corporate website themes.",
+    "count": 1
+  },
+  {
+    "tag": "free tickets",
+    "count": 1
+  },
+  {
+    "tag": "event tickets",
+    "count": 1
+  },
+  {
+    "tag": "patriotism",
+    "count": 1
+  },
+  {
+    "tag": "support services",
+    "count": 1
+  },
+  {
+    "tag": "quality of life",
+    "count": 1
+  },
+  {
+    "tag": "once-in-a-lifetime experiences",
+    "count": 1
+  },
+  {
+    "tag": "hero's wish.",
+    "count": 1
+  },
+  {
+    "tag": "sms",
+    "count": 1
+  },
+  {
+    "tag": "gamification",
+    "count": 1
+  },
+  {
+    "tag": "a/b testing",
+    "count": 1
+  },
+  {
+    "tag": "demo",
+    "count": 1
+  },
+  {
+    "tag": "booking",
+    "count": 1
+  },
+  {
+    "tag": "flights",
+    "count": 1
+  },
+  {
+    "tag": "hotels",
+    "count": 1
+  },
+  {
+    "tag": "cars",
+    "count": 1
+  },
+  {
+    "tag": "vacation",
+    "count": 1
+  },
+  {
+    "tag": "airlines",
+    "count": 1
+  },
+  {
+    "tag": "gym",
+    "count": 1
+  },
+  {
+    "tag": "home-workout",
+    "count": 1
+  },
+  {
+    "tag": "at-home-fitness",
+    "count": 1
+  },
+  {
+    "tag": "tonal-system",
+    "count": 1
+  },
+  {
+    "tag": "membership-program",
+    "count": 1
+  },
+  {
+    "tag": "personalized-training",
+    "count": 1
+  },
+  {
+    "tag": "science-back",
+    "count": 1
+  },
+  {
+    "tag": "workouts",
+    "count": 1
+  },
+  {
+    "tag": "coaching",
+    "count": 1
+  },
+  {
+    "tag": "adjustable-resistance",
+    "count": 1
+  },
+  {
+    "tag": "financing-options",
+    "count": 1
+  },
+  {
+    "tag": "insurance",
+    "count": 1
+  },
+  {
+    "tag": "horology",
+    "count": 1
+  },
+  {
+    "tag": "sustainable living",
+    "count": 1
+  },
+  {
+    "tag": "self-reliance",
+    "count": 1
+  },
+  {
+    "tag": "homesteading",
+    "count": 1
+  },
+  {
+    "tag": "natural health",
+    "count": 1
+  },
+  {
+    "tag": "video library",
+    "count": 1
+  },
+  {
+    "tag": "green living.",
+    "count": 1
+  },
+  {
+    "tag": "primers",
+    "count": 1
+  },
+  {
+    "tag": "customer-support",
+    "count": 1
+  },
+  {
+    "tag": "try-before-you-buy",
+    "count": 1
+  },
+  {
+    "tag": "free-shipping",
+    "count": 1
+  },
+  {
+    "tag": "running shoes",
+    "count": 1
+  },
+  {
+    "tag": "toms",
+    "count": 1
+  },
+  {
+    "tag": "referrals",
+    "count": 1
+  },
+  {
+    "tag": "givingback",
+    "count": 1
+  },
+  {
+    "tag": "students.",
+    "count": 1
+  },
+  {
+    "tag": "islamic",
+    "count": 1
+  },
+  {
+    "tag": "religion",
+    "count": 1
+  },
+  {
+    "tag": "prayer",
+    "count": 1
+  },
+  {
+    "tag": "zakat",
+    "count": 1
+  },
+  {
+    "tag": "ramadan",
+    "count": 1
+  },
+  {
+    "tag": "eid",
+    "count": 1
+  },
+  {
+    "tag": "quran",
+    "count": 1
+  },
+  {
+    "tag": "calendar",
+    "count": 1
+  },
+  {
+    "tag": "software.",
+    "count": 1
+  },
+  {
+    "tag": "shapewear",
+    "count": 1
+  },
+  {
+    "tag": "collections",
+    "count": 1
+  },
+  {
+    "tag": "corporate gifts",
+    "count": 1
+  },
+  {
+    "tag": "funeral services",
+    "count": 1
+  },
+  {
+    "tag": "same-day delivery",
+    "count": 1
+  },
+  {
+    "tag": "holidays",
+    "count": 1
+  },
+  {
+    "tag": "gift baskets",
+    "count": 1
+  },
+  {
+    "tag": "seasonings",
+    "count": 1
+  },
+  {
+    "tag": "spices",
+    "count": 1
+  },
+  {
+    "tag": "herbs",
+    "count": 1
+  },
+  {
+    "tag": "mccormick",
+    "count": 1
+  },
+  {
+    "tag": "seasoning blends",
+    "count": 1
+  },
+  {
+    "tag": "marinades",
+    "count": 1
+  },
+  {
+    "tag": "salts",
+    "count": 1
+  },
+  {
+    "tag": "sodium reduction",
+    "count": 1
+  },
+  {
+    "tag": "air fryer",
+    "count": 1
+  },
+  {
+    "tag": "grill mates",
+    "count": 1
+  },
+  {
+    "tag": "home cooks",
+    "count": 1
+  },
+  {
+    "tag": "academia",
+    "count": 1
+  },
+  {
+    "tag": "economics",
+    "count": 1
+  },
+  {
+    "tag": "sociology",
+    "count": 1
+  },
+  {
+    "tag": "social justice",
+    "count": 1
+  },
+  {
+    "tag": "book club",
+    "count": 1
+  },
+  {
+    "tag": "preorder",
+    "count": 1
+  },
+  {
+    "tag": "customizable products",
+    "count": 1
+  },
+  {
+    "tag": "fashion gifts",
+    "count": 1
+  },
+  {
+    "tag": "personalized merchandise",
+    "count": 1
+  },
+  {
+    "tag": "mugs",
+    "count": 1
+  },
+  {
+    "tag": "signs",
+    "count": 1
+  },
+  {
+    "tag": "merchandise store",
+    "count": 1
+  },
+  {
+    "tag": "mobile apps",
+    "count": 1
+  },
+  {
+    "tag": "celebrity news",
+    "count": 1
+  },
+  {
+    "tag": "publications",
+    "count": 1
+  },
+  {
+    "tag": "online media",
+    "count": 1
+  },
+  {
+    "tag": "celebrity culture",
+    "count": 1
+  },
+  {
+    "tag": "weight loss",
+    "count": 1
+  },
+  {
+    "tag": "women's interests.",
+    "count": 1
+  },
+  {
+    "tag": "music news",
+    "count": 1
+  },
+  {
+    "tag": "rock bands",
+    "count": 1
+  },
+  {
+    "tag": "band history",
+    "count": 1
+  },
+  {
+    "tag": "album rankings",
+    "count": 1
+  },
+  {
+    "tag": "tour announcements",
+    "count": 1
+  },
+  {
+    "tag": "top lists",
+    "count": 1
+  },
+  {
+    "tag": "photo galleries",
+    "count": 1
+  },
+  {
+    "tag": "music reviews",
+    "count": 1
+  },
+  {
+    "tag": "ucr radio",
+    "count": 1
+  },
+  {
+    "tag": "online radio.",
+    "count": 1
+  },
+  {
+    "tag": "management",
+    "count": 1
+  },
+  {
+    "tag": "marketplaces",
+    "count": 1
+  },
+  {
+    "tag": "payment",
+    "count": 1
+  },
+  {
+    "tag": "startup",
+    "count": 1
+  },
+  {
+    "tag": "sleep",
+    "count": 1
+  },
+  {
+    "tag": "bedding accessories",
+    "count": 1
+  },
+  {
+    "tag": "bedding sets",
+    "count": 1
+  },
+  {
+    "tag": "pillowcases",
+    "count": 1
+  },
+  {
+    "tag": "sheets",
+    "count": 1
+  },
+  {
+    "tag": "mattress financing",
+    "count": 1
+  },
+  {
+    "tag": "sleep quality improvement",
+    "count": 1
+  },
+  {
+    "tag": "customer reviews.",
+    "count": 1
+  },
+  {
+    "tag": "wildlife",
+    "count": 1
+  },
+  {
+    "tag": "oildrilling",
+    "count": 1
+  },
+  {
+    "tag": "arctic",
+    "count": 1
+  },
+  {
+    "tag": "animalwelfare",
+    "count": 1
+  },
+  {
+    "tag": "endangeredspecies",
+    "count": 1
+  },
+  {
+    "tag": "zendesk",
+    "count": 1
+  },
+  {
+    "tag": "gorgias",
+    "count": 1
+  },
+  {
+    "tag": "reporting",
+    "count": 1
+  },
+  {
+    "tag": "self-service.",
+    "count": 1
+  },
+  {
+    "tag": "rental",
+    "count": 1
+  },
+  {
+    "tag": "bestsellers",
+    "count": 1
+  },
+  {
+    "tag": "new-in",
+    "count": 1
+  },
+  {
+    "tag": "mobile phones",
+    "count": 1
+  },
+  {
+    "tag": "nubia",
+    "count": 1
+  },
+  {
+    "tag": "data collection",
+    "count": 1
+  },
+  {
+    "tag": "corporate website",
+    "count": 1
+  },
+  {
+    "tag": "sram",
+    "count": 1
+  },
+  {
+    "tag": "rockshox",
+    "count": 1
+  },
+  {
+    "tag": "cycling products",
+    "count": 1
+  },
+  {
+    "tag": "cycling industry",
+    "count": 1
+  },
+  {
+    "tag": "athleticwear",
+    "count": 1
+  },
+  {
+    "tag": "watersports",
+    "count": 1
+  },
+  {
+    "tag": "surfsports",
+    "count": 1
+  },
+  {
+    "tag": "triathlon",
+    "count": 1
+  },
+  {
+    "tag": "shopbyfit",
+    "count": 1
+  },
+  {
+    "tag": "pricematch",
+    "count": 1
+  },
+  {
+    "tag": "paymentplan",
+    "count": 1
+  },
+  {
+    "tag": "affiliatemarketing",
+    "count": 1
+  },
+  {
+    "tag": "drinkware",
+    "count": 1
+  },
+  {
+    "tag": "stanley",
+    "count": 1
+  },
+  {
+    "tag": "tumblers",
+    "count": 1
+  },
+  {
+    "tag": "environment",
+    "count": 1
+  },
+  {
+    "tag": "purifiers",
+    "count": 1
+  },
+  {
+    "tag": "face masks",
+    "count": 1
+  },
+  {
+    "tag": "pollution control",
+    "count": 1
+  },
+  {
+    "tag": "branding",
+    "count": 1
+  },
+  {
+    "tag": "coolermaster",
+    "count": 1
+  },
+  {
+    "tag": "pcparts",
+    "count": 1
+  },
+  {
+    "tag": "gamingpcs",
+    "count": 1
+  },
+  {
+    "tag": "pagefly",
+    "count": 1
+  },
+  {
+    "tag": "merchants",
+    "count": 1
+  },
+  {
+    "tag": "women's history",
+    "count": 1
+  },
+  {
+    "tag": "museums",
+    "count": 1
+  },
+  {
+    "tag": "empowerment",
+    "count": 1
+  },
+  {
+    "tag": "resources",
+    "count": 1
+  },
+  {
+    "tag": "classroom",
+    "count": 1
+  },
+  {
+    "tag": "digital",
+    "count": 1
+  },
+  {
+    "tag": "learning.",
+    "count": 1
+  },
+  {
+    "tag": "stussy",
+    "count": 1
+  },
+  {
+    "tag": "environmental",
+    "count": 1
+  },
+  {
+    "tag": "pollution",
+    "count": 1
+  },
+  {
+    "tag": "monitoring",
+    "count": 1
+  },
+  {
+    "tag": "particulate matter",
+    "count": 1
+  },
+  {
+    "tag": "pm2.5",
+    "count": 1
+  },
+  {
+    "tag": "temperature",
+    "count": 1
+  },
+  {
+    "tag": "humidity",
+    "count": 1
+  },
+  {
+    "tag": "pressure",
+    "count": 1
+  },
+  {
+    "tag": "babywear",
+    "count": 1
+  },
+  {
+    "tag": "kidsclothing",
+    "count": 1
+  },
+  {
+    "tag": "pajamas",
+    "count": 1
+  },
+  {
+    "tag": "bundlesales",
+    "count": 1
+  },
+  {
+    "tag": "subscriptionservices",
+    "count": 1
+  },
+  {
+    "tag": "charities.",
+    "count": 1
+  },
+  {
+    "tag": "global finance",
+    "count": 1
+  },
+  {
+    "tag": "currency exchange",
+    "count": 1
+  },
+  {
+    "tag": "international travel",
+    "count": 1
+  },
+  {
+    "tag": "financial services",
+    "count": 1
+  },
+  {
+    "tag": "global shipping.",
+    "count": 1
+  },
+  {
+    "tag": "protection plan",
+    "count": 1
+  },
+  {
+    "tag": "novelties",
+    "count": 1
+  },
+  {
+    "tag": "minorleaguebaseball",
+    "count": 1
+  },
+  {
+    "tag": "teambrands",
+    "count": 1
+  },
+  {
+    "tag": "caps",
+    "count": 1
+  },
+  {
+    "tag": "jerseys",
+    "count": 1
+  },
+  {
+    "tag": "tshirts",
+    "count": 1
+  },
+  {
+    "tag": "patriotic",
+    "count": 1
+  },
+  {
+    "tag": "outerwear",
+    "count": 1
+  },
+  {
+    "tag": "gun rights",
+    "count": 1
+  },
+  {
+    "tag": "american culture",
+    "count": 1
+  },
+  {
+    "tag": "tank tops",
+    "count": 1
+  },
+  {
+    "tag": "retail industry.",
+    "count": 1
+  },
+  {
+    "tag": "product",
+    "count": 1
+  },
+  {
+    "tag": "phone",
+    "count": 1
+  },
+  {
+    "tag": "smartphone",
+    "count": 1
+  },
+  {
+    "tag": "palm",
+    "count": 1
+  },
+  {
+    "tag": "android",
+    "count": 1
+  },
+  {
+    "tag": "devices",
+    "count": 1
+  },
+  {
+    "tag": "delivery",
+    "count": 1
+  },
+  {
+    "tag": "bouquets",
+    "count": 1
+  },
+  {
+    "tag": "arrangements",
+    "count": 1
+  },
+  {
+    "tag": "order tracking",
+    "count": 1
+  },
+  {
+    "tag": "music merchandise",
+    "count": 1
+  },
+  {
+    "tag": "carhartt wip",
+    "count": 1
+  },
+  {
+    "tag": "countries",
+    "count": 1
+  },
+  {
+    "tag": "music fans",
+    "count": 1
+  },
+  {
+    "tag": "vinyl records",
+    "count": 1
+  },
+  {
+    "tag": "hoodies.",
+    "count": 1
+  },
+  {
+    "tag": "flavours",
+    "count": 1
+  },
+  {
+    "tag": "newsletter",
+    "count": 1
+  },
+  {
+    "tag": "disney",
+    "count": 1
+  },
+  {
+    "tag": "parents",
+    "count": 1
+  },
+  {
+    "tag": "bakery.",
+    "count": 1
+  },
+  {
+    "tag": "pet care",
+    "count": 1
+  },
+  {
+    "tag": "natural products",
+    "count": 1
+  },
+  {
+    "tag": "trading",
+    "count": 1
+  },
+  {
+    "tag": "luxuryitems",
+    "count": 1
+  },
+  {
+    "tag": "highend",
+    "count": 1
+  },
+  {
+    "tag": "onlinecommerce",
+    "count": 1
+  },
+  {
+    "tag": "cart",
+    "count": 1
+  },
+  {
+    "tag": "retailer.",
+    "count": 1
+  },
+  {
+    "tag": "checkout acceleration",
+    "count": 1
+  },
+  {
+    "tag": "payment processing",
+    "count": 1
+  },
+  {
+    "tag": "readers",
+    "count": 1
+  },
+  {
+    "tag": "outdoor enthusiasts",
+    "count": 1
+  },
+  {
+    "tag": "shopify integration",
+    "count": 1
+  },
+  {
+    "tag": "google analytics",
+    "count": 1
+  },
+  {
+    "tag": "convert optimization",
+    "count": 1
+  },
+  {
+    "tag": "customer convenience",
+    "count": 1
+  },
+  {
+    "tag": "streamlined checkout",
+    "count": 1
+  },
+  {
+    "tag": "cookie management",
+    "count": 1
+  },
+  {
+    "tag": "privacy policy",
+    "count": 1
+  },
+  {
+    "tag": "cookie policy",
+    "count": 1
+  },
+  {
+    "tag": "kids' goggles",
+    "count": 1
+  },
+  {
+    "tag": "colorush styles",
+    "count": 1
+  },
+  {
+    "tag": "high-end lenses.",
+    "count": 1
+  },
+  {
+    "tag": "outdoorwear",
+    "count": 1
+  },
+  {
+    "tag": "brewery",
+    "count": 1
+  },
+  {
+    "tag": "restaurant",
+    "count": 1
+  },
+  {
+    "tag": "experiences",
+    "count": 1
+  },
+  {
+    "tag": "kitchen-products",
+    "count": 1
+  },
+  {
+    "tag": "sauces",
+    "count": 1
+  },
+  {
+    "tag": "craft-beer",
+    "count": 1
+  },
+  {
+    "tag": "dining.",
+    "count": 1
+  },
+  {
+    "tag": "outwear",
+    "count": 1
+  },
+  {
+    "tag": "men'swear",
+    "count": 1
+  },
+  {
+    "tag": "linens",
+    "count": 1
+  },
+  {
+    "tag": "product catalog",
+    "count": 1
+  },
+  {
+    "tag": "shopping platform.",
+    "count": 1
+  },
+  {
+    "tag": "review management",
+    "count": 1
+  },
+  {
+    "tag": "business solutions",
+    "count": 1
+  },
+  {
+    "tag": "online retailers",
+    "count": 1
+  },
+  {
+    "tag": "live chat",
+    "count": 1
+  },
+  {
+    "tag": "question and answer",
+    "count": 1
+  },
+  {
+    "tag": "amazon",
+    "count": 1
+  },
+  {
+    "tag": "aliexpress",
+    "count": 1
+  },
+  {
+    "tag": "etsy",
+    "count": 1
+  },
+  {
+    "tag": "saas.",
+    "count": 1
+  },
+  {
+    "tag": "highered",
+    "count": 1
+  },
+  {
+    "tag": "degrees",
+    "count": 1
+  },
+  {
+    "tag": "computerscience",
+    "count": 1
+  },
+  {
+    "tag": "digitalart",
+    "count": 1
+  },
+  {
+    "tag": "gamedesign",
+    "count": 1
+  },
+  {
+    "tag": "arts",
+    "count": 1
+  },
+  {
+    "tag": "academics",
+    "count": 1
+  },
+  {
+    "tag": "campuslife",
+    "count": 1
+  },
+  {
+    "tag": "student",
+    "count": 1
+  },
+  {
+    "tag": "laser-machines",
+    "count": 1
+  },
+  {
+    "tag": "crafting-tools",
+    "count": 1
+  },
+  {
+    "tag": "desktop-lasers",
+    "count": 1
+  },
+  {
+    "tag": "metal-fabrication",
+    "count": 1
+  },
+  {
+    "tag": "jewelry-making",
+    "count": 1
+  },
+  {
+    "tag": "creative-professionals",
+    "count": 1
+  },
+  {
+    "tag": "industry-manufacturing",
+    "count": 1
+  },
+  {
+    "tag": "nuts",
+    "count": 1
+  },
+  {
+    "tag": "seeds",
+    "count": 1
+  },
+  {
+    "tag": "chocolate",
+    "count": 1
+  },
+  {
+    "tag": "dried fruit",
+    "count": 1
+  },
+  {
+    "tag": "role-playing games",
+    "count": 1
+  },
+  {
+    "tag": "tabletop games",
+    "count": 1
+  },
+  {
+    "tag": "pathfinders",
+    "count": 1
+  },
+  {
+    "tag": "gaming resources",
+    "count": 1
+  },
+  {
+    "tag": "fantasy games",
+    "count": 1
+  },
+  {
+    "tag": "adventure planning",
+    "count": 1
+  },
+  {
+    "tag": "game mechanics",
+    "count": 1
+  },
+  {
+    "tag": "monster generation",
+    "count": 1
+  },
+  {
+    "tag": "character classes",
+    "count": 1
+  },
+  {
+    "tag": "roleplaying websites",
+    "count": 1
+  },
+  {
+    "tag": "video-conferencing",
+    "count": 1
+  },
+  {
+    "tag": "digital-signage",
+    "count": 1
+  },
+  {
+    "tag": "remote-management",
+    "count": 1
+  },
+  {
+    "tag": "wireless-screen-sharing",
+    "count": 1
+  },
+  {
+    "tag": "business-tools",
+    "count": 1
+  },
+  {
+    "tag": "education-tech",
+    "count": 1
+  },
+  {
+    "tag": "shared-screens",
+    "count": 1
+  },
+  {
+    "tag": "meeting-software",
+    "count": 1
+  },
+  {
+    "tag": "school-software",
+    "count": 1
+  },
+  {
+    "tag": "business-platforms",
+    "count": 1
+  },
+  {
+    "tag": "catalog shopping",
+    "count": 1
+  },
+  {
+    "tag": "shop by category.",
+    "count": 1
+  },
+  {
+    "tag": "ovens",
+    "count": 1
+  },
+  {
+    "tag": "smart-home",
+    "count": 1
+  },
+  {
+    "tag": "plant-based",
+    "count": 1
+  },
+  {
+    "tag": "meal planning",
+    "count": 1
+  },
+  {
+    "tag": "cookbooks",
+    "count": 1
+  },
+  {
+    "tag": "merchandise.",
+    "count": 1
+  },
+  {
+    "tag": "document management",
+    "count": 1
+  },
+  {
+    "tag": "cloud storage",
+    "count": 1
+  },
+  {
+    "tag": "document scanning",
+    "count": 1
+  },
+  {
+    "tag": "ocr software",
+    "count": 1
+  },
+  {
+    "tag": "secure storage",
+    "count": 1
+  },
+  {
+    "tag": "hipaa compliant",
+    "count": 1
+  },
+  {
+    "tag": "small business tools",
+    "count": 1
+  },
+  {
+    "tag": "document storage",
+    "count": 1
+  },
+  {
+    "tag": "digital templates",
+    "count": 1
+  },
+  {
+    "tag": "data protection.",
+    "count": 1
+  },
+  {
+    "tag": "razors",
+    "count": 1
+  },
+  {
+    "tag": "shave products",
+    "count": 1
+  },
+  {
+    "tag": "polos",
+    "count": 1
+  },
+  {
+    "tag": "size charts",
+    "count": 1
+  },
+  {
+    "tag": "measurements",
+    "count": 1
+  },
+  {
+    "tag": "page builders",
+    "count": 1
+  },
+  {
+    "tag": "inventory management",
+    "count": 1
+  },
+  {
+    "tag": "google integration",
+    "count": 1
+  },
+  {
+    "tag": "marketing tools",
+    "count": 1
+  },
+  {
+    "tag": "customer support",
+    "count": 1
+  },
+  {
+    "tag": "trainers",
+    "count": 1
+  },
+  {
+    "tag": "napapijri",
+    "count": 1
+  },
+  {
+    "tag": "schoolwear",
+    "count": 1
+  },
+  {
+    "tag": "men's clothing",
+    "count": 1
+  },
+  {
+    "tag": "kids' clothing",
+    "count": 1
+  },
+  {
+    "tag": "based on the provided text",
+    "count": 1
+  },
+  {
+    "tag": "i will attempt to analyze it as per your instructions.\n\n**main purpose:** educational/training\n**primary products/services/content:** online courses and tutorials on various subjects (web development",
+    "count": 1
+  },
+  {
+    "tag": "e-learning",
+    "count": 1
+  },
+  {
+    "tag": "cybersecurity)\n**target audience:** individuals interested in software development",
+    "count": 1
+  },
+  {
+    "tag": "or cybersecurity\n**notable features:**\n* interactive learning materials\n* step-by-step guides\n* comprehensive training programs\n\nplease note that the provided text does not contain a specific webpage url or content. the above analysis is based on the text structure and content similarity to typical online course platforms.\n\nif you'd like me to analyze a different text",
+    "count": 1
+  },
+  {
+    "tag": "please provide it to me!",
+    "count": 1
+  },
+  {
+    "tag": "studentdiscounts",
+    "count": 1
+  },
+  {
+    "tag": "delivery.",
+    "count": 1
+  },
+  {
+    "tag": "fantasy",
+    "count": 1
+  },
+  {
+    "tag": "draft",
+    "count": 1
+  },
+  {
+    "tag": "prospects",
+    "count": 1
+  },
+  {
+    "tag": "analysis",
+    "count": 1
+  },
+  {
+    "tag": "rankings",
+    "count": 1
+  },
+  {
+    "tag": "review",
+    "count": 1
+  },
+  {
+    "tag": "social responsibility",
+    "count": 1
+  },
+  {
+    "tag": "clean water",
+    "count": 1
+  },
+  {
+    "tag": "zero-waste",
+    "count": 1
+  },
+  {
+    "tag": "blouses",
+    "count": 1
+  },
+  {
+    "tag": "e-retail.",
+    "count": 1
+  },
+  {
+    "tag": "alarms",
+    "count": 1
+  },
+  {
+    "tag": "maternity",
+    "count": 1
+  },
+  {
+    "tag": "bridesmaids",
+    "count": 1
+  },
+  {
+    "tag": "fashionista",
+    "count": 1
+  },
+  {
+    "tag": "fandom",
+    "count": 1
+  },
+  {
+    "tag": "online marketplace",
+    "count": 1
+  },
+  {
+    "tag": "collectible items",
+    "count": 1
+  },
+  {
+    "tag": "funko",
+    "count": 1
+  },
+  {
+    "tag": "loungefly",
+    "count": 1
+  },
+  {
+    "tag": "pop figures",
+    "count": 1
+  },
+  {
+    "tag": "clothing.",
+    "count": 1
+  },
+  {
+    "tag": "shopping-cart",
+    "count": 1
+  },
+  {
+    "tag": "customer-experience",
+    "count": 1
+  },
+  {
+    "tag": "data-collection",
+    "count": 1
+  },
+  {
+    "tag": "targeted-advertising",
+    "count": 1
+  },
+  {
+    "tag": "google-analytics.",
+    "count": 1
+  },
+  {
+    "tag": "storeowners",
+    "count": 1
+  },
+  {
+    "tag": "e-businesses",
+    "count": 1
+  },
+  {
+    "tag": "currency converter",
+    "count": 1
+  },
+  {
+    "tag": "exchange rates",
+    "count": 1
+  },
+  {
+    "tag": "loans",
+    "count": 1
+  },
+  {
+    "tag": "credit",
+    "count": 1
+  },
+  {
+    "tag": "promos",
+    "count": 1
+  },
+  {
+    "tag": "cashback",
+    "count": 1
+  },
+  {
+    "tag": "kueski.",
+    "count": 1
+  },
+  {
+    "tag": "graduation dress",
+    "count": 1
+  },
+  {
+    "tag": "prom dresses",
+    "count": 1
+  },
+  {
+    "tag": "wedding guest dresses",
+    "count": 1
+  },
+  {
+    "tag": "newsletters",
+    "count": 1
+  },
+  {
+    "tag": "shoppingcart",
+    "count": 1
+  },
+  {
+    "tag": "cruelty-free",
+    "count": 1
+  },
+  {
+    "tag": "women's apparel",
+    "count": 1
+  },
+  {
+    "tag": "indian garments",
+    "count": 1
+  },
+  {
+    "tag": "salwar suits",
+    "count": 1
+  },
+  {
+    "tag": "kurtis",
+    "count": 1
+  },
+  {
+    "tag": "wedding",
+    "count": 1
+  },
+  {
+    "tag": "decorations",
+    "count": 1
+  },
+  {
+    "tag": "party",
+    "count": 1
+  },
+  {
+    "tag": "supplies",
+    "count": 1
+  },
+  {
+    "tag": "tableware",
+    "count": 1
+  },
+  {
+    "tag": "specialeffects",
+    "count": 1
+  },
+  {
+    "tag": "backdrops",
+    "count": 1
+  },
+  {
+    "tag": "stands",
+    "count": 1
+  },
+  {
+    "tag": "displays",
+    "count": 1
+  },
+  {
+    "tag": "overstock",
+    "count": 1
+  },
+  {
+    "tag": "weddingsplanning.",
+    "count": 1
+  },
+  {
+    "tag": "industrial",
+    "count": 1
+  },
+  {
+    "tag": "online.",
+    "count": 1
+  },
+  {
+    "tag": "payment-services",
+    "count": 1
+  },
+  {
+    "tag": "mobile-apps",
+    "count": 1
+  },
+  {
+    "tag": "online-deals",
+    "count": 1
+  },
+  {
+    "tag": "shopping-platform",
+    "count": 1
+  },
+  {
+    "tag": "digital-payments",
+    "count": 1
+  },
+  {
+    "tag": "tech-products",
+    "count": 1
+  },
+  {
+    "tag": "translation",
+    "count": 1
+  },
+  {
+    "tag": "multilingual",
+    "count": 1
+  },
+  {
+    "tag": "online merchants",
+    "count": 1
+  },
+  {
+    "tag": "language support",
+    "count": 1
+  },
+  {
+    "tag": "seo tools",
+    "count": 1
+  },
+  {
+    "tag": "web apps",
+    "count": 1
+  },
+  {
+    "tag": "online multiplayer",
+    "count": 1
+  },
+  {
+    "tag": "mmo",
+    "count": 1
+  },
+  {
+    "tag": "shell shockers",
+    "count": 1
+  },
+  {
+    "tag": "vip club",
+    "count": 1
+  },
+  {
+    "tag": "multiplayer games",
+    "count": 1
+  },
+  {
+    "tag": "deodorants",
+    "count": 1
+  },
+  {
+    "tag": "hyperhidrosis",
+    "count": 1
+  },
+  {
+    "tag": "feminineproducts",
+    "count": 1
+  },
+  {
+    "tag": "onlinequiz",
+    "count": 1
+  },
+  {
+    "tag": "outdoor furniture",
+    "count": 1
+  },
+  {
+    "tag": "home shopping",
+    "count": 1
+  },
+  {
+    "tag": "email marketing",
+    "count": 1
+  },
+  {
+    "tag": "mens fashion.",
+    "count": 1
+  },
+  {
+    "tag": "eyeglasses",
+    "count": 1
+  },
+  {
+    "tag": "optics",
+    "count": 1
+  },
+  {
+    "tag": "scandinavia",
+    "count": 1
+  },
+  {
+    "tag": "nordic",
+    "count": 1
+  },
+  {
+    "tag": "sweden",
+    "count": 1
+  },
+  {
+    "tag": "norway",
+    "count": 1
+  },
+  {
+    "tag": "pickleball",
+    "count": 1
+  },
+  {
+    "tag": "tennis",
+    "count": 1
+  },
+  {
+    "tag": "rating",
+    "count": 1
+  },
+  {
+    "tag": "competitions",
+    "count": 1
+  },
+  {
+    "tag": "events.",
+    "count": 1
+  },
+  {
+    "tag": "urban",
+    "count": 1
+  },
+  {
+    "tag": "new balance",
+    "count": 1
+  },
+  {
+    "tag": "puma",
+    "count": 1
+  },
+  {
+    "tag": "limited edition.",
+    "count": 1
+  },
+  {
+    "tag": "environmental conservation",
+    "count": 1
+  },
+  {
+    "tag": "forestry",
+    "count": 1
+  },
+  {
+    "tag": "trees",
+    "count": 1
+  },
+  {
+    "tag": "green",
+    "count": 1
+  },
+  {
+    "tag": "giving",
+    "count": 1
+  },
+  {
+    "tag": "nature",
+    "count": 1
+  },
+  {
+    "tag": "projects",
+    "count": 1
+  },
+  {
+    "tag": "initiatives",
+    "count": 1
+  },
+  {
+    "tag": "funding.",
+    "count": 1
+  },
+  {
+    "tag": "record",
+    "count": 1
+  },
+  {
+    "tag": "interior design",
+    "count": 1
+  },
+  {
+    "tag": "doormats",
+    "count": 1
+  },
+  {
+    "tag": "home furnishings.",
+    "count": 1
+  },
+  {
+    "tag": "clothing stores",
+    "count": 1
+  },
+  {
+    "tag": "young adult",
+    "count": 1
+  },
+  {
+    "tag": "basics.",
+    "count": 1
+  },
+  {
+    "tag": "nobull",
+    "count": 1
+  },
+  {
+    "tag": "electrical components",
+    "count": 1
+  },
+  {
+    "tag": "computing",
+    "count": 1
+  },
+  {
+    "tag": "networking equipment",
+    "count": 1
+  },
+  {
+    "tag": "photo equipment",
+    "count": 1
+  },
+  {
+    "tag": "video equipment",
+    "count": 1
+  },
+  {
+    "tag": "lighting solutions",
+    "count": 1
+  },
+  {
+    "tag": "business supplies",
+    "count": 1
+  },
+  {
+    "tag": "wholesale electronics.",
+    "count": 1
+  },
+  {
+    "tag": "scents",
+    "count": 1
+  },
+  {
+    "tag": "architecture news",
+    "count": 1
+  },
+  {
+    "tag": "architecture trends",
+    "count": 1
+  },
+  {
+    "tag": "construction news",
+    "count": 1
+  },
+  {
+    "tag": "architect resources",
+    "count": 1
+  },
+  {
+    "tag": "cmp solutions",
+    "count": 1
+  },
+  {
+    "tag": "ad tech companies",
+    "count": 1
+  },
+  {
+    "tag": "digital media industry",
+    "count": 1
+  },
+  {
+    "tag": "privacy policies",
+    "count": 1
+  },
+  {
+    "tag": "cookie duration",
+    "count": 1
+  },
+  {
+    "tag": "user data management",
+    "count": 1
+  },
+  {
+    "tag": "data collection practices",
+    "count": 1
+  },
+  {
+    "tag": "consent management platforms",
+    "count": 1
+  },
+  {
+    "tag": "advertiser resources",
+    "count": 1
+  },
+  {
+    "tag": "digital security",
+    "count": 1
+  },
+  {
+    "tag": "technology industry",
+    "count": 1
+  },
+  {
+    "tag": "user-provided data",
+    "count": 1
+  },
+  {
+    "tag": "storage formats",
+    "count": 1
+  },
+  {
+    "tag": "authentication-derived identifiers.",
+    "count": 1
+  },
+  {
+    "tag": "young-adults",
+    "count": 1
+  },
+  {
+    "tag": "champion",
+    "count": 1
+  },
+  {
+    "tag": "customer-service",
+    "count": 1
+  },
+  {
+    "tag": "backup",
+    "count": 1
+  },
+  {
+    "tag": "solar",
+    "count": 1
+  },
+  {
+    "tag": "energy",
+    "count": 1
+  },
+  {
+    "tag": "storage",
+    "count": 1
+  },
+  {
+    "tag": "anker",
+    "count": 1
+  },
+  {
+    "tag": "solix.",
+    "count": 1
+  },
+  {
+    "tag": "promotions.",
+    "count": 1
+  },
+  {
+    "tag": "subscription box",
+    "count": 1
+  },
+  {
+    "tag": "meat subscription",
+    "count": 1
+  },
+  {
+    "tag": "seafood subscription",
+    "count": 1
+  },
+  {
+    "tag": "sustainable food",
+    "count": 1
+  },
+  {
+    "tag": "healthy meals",
+    "count": 1
+  },
+  {
+    "tag": "family subscription",
+    "count": 1
+  },
+  {
+    "tag": "monthly delivery",
+    "count": 1
+  },
+  {
+    "tag": "small farms",
+    "count": 1
+  },
+  {
+    "tag": "local food",
+    "count": 1
+  },
+  {
+    "tag": "humanely raised",
+    "count": 1
+  },
+  {
+    "tag": "responsibly sourced",
+    "count": 1
+  },
+  {
+    "tag": "farmer owned",
+    "count": 1
+  },
+  {
+    "tag": "skatewear",
+    "count": 1
+  },
+  {
+    "tag": "skateboard",
+    "count": 1
+  },
+  {
+    "tag": "teenagers",
+    "count": 1
+  },
+  {
+    "tag": "teens",
+    "count": 1
+  },
+  {
+    "tag": "blackpink",
+    "count": 1
+  },
+  {
+    "tag": "commerce.",
+    "count": 1
+  },
+  {
+    "tag": "eyeshadow",
+    "count": 1
+  },
+  {
+    "tag": "lip balm",
+    "count": 1
+  },
+  {
+    "tag": "cleansers",
+    "count": 1
+  },
+  {
+    "tag": "creams",
+    "count": 1
+  },
+  {
+    "tag": "brushes",
+    "count": 1
+  },
+  {
+    "tag": "eye care",
+    "count": 1
+  },
+  {
+    "tag": "lip care",
+    "count": 1
+  },
+  {
+    "tag": "youngadult",
+    "count": 1
+  },
+  {
+    "tag": "sizing",
+    "count": 1
+  },
+  {
+    "tag": "fashionretail",
+    "count": 1
+  },
+  {
+    "tag": "dataprivacy",
+    "count": 1
+  },
+  {
+    "tag": "optout",
+    "count": 1
+  },
+  {
+    "tag": "plussize",
+    "count": 1
+  },
+  {
+    "tag": "homedecor",
+    "count": 1
+  },
+  {
+    "tag": "disneycollectibles",
+    "count": 1
+  },
+  {
+    "tag": "occasionwear",
+    "count": 1
+  },
+  {
+    "tag": "southasia",
+    "count": 1
+  },
+  {
+    "tag": "retrogames",
+    "count": 1
+  },
+  {
+    "tag": "indiegames",
+    "count": 1
+  },
+  {
+    "tag": "video games",
+    "count": 1
+  },
+  {
+    "tag": "posters",
+    "count": 1
+  },
+  {
+    "tag": "franchises",
+    "count": 1
+  },
+  {
+    "tag": "memorabilia",
+    "count": 1
+  },
+  {
+    "tag": "bohemian",
+    "count": 1
+  },
+  {
+    "tag": "list",
+    "count": 1
+  },
+  {
+    "tag": "smart-oven",
+    "count": 1
+  },
+  {
+    "tag": "cooking-technology",
+    "count": 1
+  },
+  {
+    "tag": "home-cooking",
+    "count": 1
+  },
+  {
+    "tag": "food-enthusiasts",
+    "count": 1
+  },
+  {
+    "tag": "kitchen-appliances",
+    "count": 1
+  },
+  {
+    "tag": "cooking-zones",
+    "count": 1
+  },
+  {
+    "tag": "recipe-presets",
+    "count": 1
+  },
+  {
+    "tag": "mobile-app.",
+    "count": 1
+  },
+  {
+    "tag": "abandoned carts",
+    "count": 1
+  },
+  {
+    "tag": "shopping cart recovery",
+    "count": 1
+  },
+  {
+    "tag": "customer support.",
+    "count": 1
+  },
+  {
+    "tag": "craft store",
+    "count": 1
+  },
+  {
+    "tag": "woodworking",
+    "count": 1
+  },
+  {
+    "tag": "woodcraft",
+    "count": 1
+  },
+  {
+    "tag": "safety equipment",
+    "count": 1
+  },
+  {
+    "tag": "organization solutions",
+    "count": 1
+  },
+  {
+    "tag": "online retail.",
+    "count": 1
+  },
+  {
+    "tag": "animal",
+    "count": 1
+  },
+  {
+    "tag": "reference",
+    "count": 1
+  },
+  {
+    "tag": "comics",
+    "count": 1
+  },
+  {
+    "tag": "rings",
+    "count": 1
+  },
+  {
+    "tag": "baby",
+    "count": 1
+  },
+  {
+    "tag": "caregivers",
+    "count": 1
+  },
+  {
+    "tag": "newborns",
+    "count": 1
+  },
+  {
+    "tag": "fda",
+    "count": 1
+  },
+  {
+    "tag": "authorization.",
+    "count": 1
+  },
+  {
+    "tag": "pizza ovens",
+    "count": 1
+  },
+  {
+    "tag": "outdoor cooking",
+    "count": 1
+  },
+  {
+    "tag": "kitchen appliances",
+    "count": 1
+  },
+  {
+    "tag": "email servers",
+    "count": 1
+  },
+  {
+    "tag": "email security",
+    "count": 1
+  },
+  {
+    "tag": "business software",
+    "count": 1
+  },
+  {
+    "tag": "corporate solutions",
+    "count": 1
+  },
+  {
+    "tag": "it services",
+    "count": 1
+  },
+  {
+    "tag": "exchange alternatives",
+    "count": 1
+  },
+  {
+    "tag": "security gateways",
+    "count": 1
+  },
+  {
+    "tag": "instant messaging",
+    "count": 1
+  },
+  {
+    "tag": "calendaring software",
+    "count": 1
+  },
+  {
+    "tag": "email encryption.",
+    "count": 1
+  },
+  {
+    "tag": "sezzle",
+    "count": 1
+  },
+  {
+    "tag": "payment plans",
+    "count": 1
+  },
+  {
+    "tag": "videography",
+    "count": 1
+  },
+  {
+    "tag": "duffels",
+    "count": 1
+  },
+  {
+    "tag": "packing cubes",
+    "count": 1
+  },
+  {
+    "tag": "fair trade",
+    "count": 1
+  },
+  {
+    "tag": "csr",
+    "count": 1
+  },
+  {
+    "tag": "hair-products",
+    "count": 1
+  },
+  {
+    "tag": "retail-business",
+    "count": 1
+  },
+  {
+    "tag": "business-registration",
+    "count": 1
+  },
+  {
+    "tag": "product-sales.",
+    "count": 1
+  },
+  {
+    "tag": "retro",
+    "count": 1
+  },
+  {
+    "tag": "style",
+    "count": 1
+  },
+  {
+    "tag": "1920s",
+    "count": 1
+  },
+  {
+    "tag": "1930s",
+    "count": 1
+  },
+  {
+    "tag": "1940s",
+    "count": 1
+  },
+  {
+    "tag": "1950s",
+    "count": 1
+  },
+  {
+    "tag": "1960s",
+    "count": 1
+  },
+  {
+    "tag": "1970s",
+    "count": 1
+  },
+  {
+    "tag": "1980s",
+    "count": 1
+  },
+  {
+    "tag": "motherhood",
+    "count": 1
+  },
+  {
+    "tag": "childrensware",
+    "count": 1
+  },
+  {
+    "tag": "young",
+    "count": 1
+  },
+  {
+    "tag": "loyalty-program.",
+    "count": 1
+  },
+  {
+    "tag": "havaianas",
+    "count": 1
+  },
+  {
+    "tag": "reseller",
+    "count": 1
+  },
+  {
+    "tag": "brazil",
+    "count": 1
+  },
+  {
+    "tag": "homeschooling",
+    "count": 1
+  },
+  {
+    "tag": "online learning",
+    "count": 1
+  },
+  {
+    "tag": "curriculum",
+    "count": 1
+  },
+  {
+    "tag": "k12",
+    "count": 1
+  },
+  {
+    "tag": "educational resources",
+    "count": 1
+  },
+  {
+    "tag": "subscription service",
+    "count": 1
+  },
+  {
+    "tag": "academy platform",
+    "count": 1
+  },
+  {
+    "tag": "academic support",
+    "count": 1
+  },
+  {
+    "tag": "homeschool supplies.",
+    "count": 1
+  },
+  {
+    "tag": "timepieces",
+    "count": 1
+  },
+  {
+    "tag": "watchesales",
+    "count": 1
+  },
+  {
+    "tag": "luxurygoods",
+    "count": 1
+  },
+  {
+    "tag": "menswatches",
+    "count": 1
+  },
+  {
+    "tag": "womenswatches",
+    "count": 1
+  },
+  {
+    "tag": "climate change",
+    "count": 1
+  },
+  {
+    "tag": "artwork",
+    "count": 1
+  },
+  {
+    "tag": "coffee mugs",
+    "count": 1
+  },
+  {
+    "tag": "wish list",
+    "count": 1
+  },
+  {
+    "tag": "discount codes",
+    "count": 1
+  },
+  {
+    "tag": "instagram integration",
+    "count": 1
+  },
+  {
+    "tag": "blogs",
+    "count": 1
+  },
+  {
+    "tag": "pet products",
+    "count": 1
+  },
+  {
+    "tag": "home goods.",
+    "count": 1
+  },
+  {
+    "tag": "makers",
+    "count": 1
+  },
+  {
+    "tag": "raspberry pi",
+    "count": 1
+  },
+  {
+    "tag": "arduino",
+    "count": 1
+  },
+  {
+    "tag": "components",
+    "count": 1
+  },
+  {
+    "tag": "robotics",
+    "count": 1
+  },
+  {
+    "tag": "maker store",
+    "count": 1
+  },
+  {
+    "tag": "usb",
+    "count": 1
+  },
+  {
+    "tag": "arcade",
+    "count": 1
+  },
+  {
+    "tag": "christian",
+    "count": 1
+  },
+  {
+    "tag": "hbcus",
+    "count": 1
+  },
+  {
+    "tag": "colleges",
+    "count": 1
+  },
+  {
+    "tag": "athletics",
+    "count": 1
+  },
+  {
+    "tag": "community.",
+    "count": 1
+  },
+  {
+    "tag": "snow sports",
+    "count": 1
+  },
+  {
+    "tag": "trail running",
+    "count": 1
+  },
+  {
+    "tag": "kids' wear",
+    "count": 1
+  },
+  {
+    "tag": "cds",
+    "count": 1
+  },
+  {
+    "tag": "autographs",
+    "count": 1
+  },
+  {
+    "tag": "cabin",
+    "count": 1
+  },
+  {
+    "tag": "pacific",
+    "count": 1
+  },
+  {
+    "tag": "northwest",
+    "count": 1
+  },
+  {
+    "tag": "irrigation",
+    "count": 1
+  },
+  {
+    "tag": "watering",
+    "count": 1
+  },
+  {
+    "tag": "timers",
+    "count": 1
+  },
+  {
+    "tag": "sprinklers",
+    "count": 1
+  },
+  {
+    "tag": "hose",
+    "count": 1
+  },
+  {
+    "tag": "detection",
+    "count": 1
+  },
+  {
+    "tag": "leaks",
+    "count": 1
+  },
+  {
+    "tag": "freeze",
+    "count": 1
+  },
+  {
+    "tag": "lawn",
+    "count": 1
+  },
+  {
+    "tag": "lawncare",
+    "count": 1
+  },
+  {
+    "tag": "vinyl soundtracks",
+    "count": 1
+  },
+  {
+    "tag": "collector's editions",
+    "count": 1
+  },
+  {
+    "tag": "plush toys",
+    "count": 1
+  },
+  {
+    "tag": "stickers",
+    "count": 1
+  },
+  {
+    "tag": "pins",
+    "count": 1
+  },
+  {
+    "tag": "kidswear",
+    "count": 1
+  },
+  {
+    "tag": "body oils",
+    "count": 1
+  },
+  {
+    "tag": "tanning creams",
+    "count": 1
+  },
+  {
+    "tag": "lawnmowers",
+    "count": 1
+  },
+  {
+    "tag": "chainsaws",
+    "count": 1
+  },
+  {
+    "tag": "leafblowers",
+    "count": 1
+  },
+  {
+    "tag": "greenworks",
+    "count": 1
+  },
+  {
+    "tag": "indoor",
+    "count": 1
+  },
+  {
+    "tag": "interiors",
+    "count": 1
+  },
+  {
+    "tag": "homeware",
+    "count": 1
+  },
+  {
+    "tag": "boutique",
+    "count": 1
+  },
+  {
+    "tag": "rewards.",
+    "count": 1
+  },
+  {
+    "tag": "tarot",
+    "count": 1
+  },
+  {
+    "tag": "astrology",
+    "count": 1
+  },
+  {
+    "tag": "self-discovery",
+    "count": 1
+  },
+  {
+    "tag": "tarot cards",
+    "count": 1
+  },
+  {
+    "tag": "destiny products",
+    "count": 1
+  },
+  {
+    "tag": "mayhem balls",
+    "count": 1
+  },
+  {
+    "tag": "curated products",
+    "count": 1
+  },
+  {
+    "tag": "esoteric",
+    "count": 1
+  },
+  {
+    "tag": "metaphysics",
+    "count": 1
+  },
+  {
+    "tag": "personal growth.",
+    "count": 1
+  },
+  {
+    "tag": "sex-toys",
+    "count": 1
+  },
+  {
+    "tag": "lubricants",
+    "count": 1
+  },
+  {
+    "tag": "adult-products",
+    "count": 1
+  },
+  {
+    "tag": "sexual-wellness",
+    "count": 1
+  },
+  {
+    "tag": "dating",
+    "count": 1
+  },
+  {
+    "tag": "couples",
+    "count": 1
+  },
+  {
+    "tag": "beginner-products",
+    "count": 1
+  },
+  {
+    "tag": "consoles",
+    "count": 1
+  },
+  {
+    "tag": "console",
+    "count": 1
+  },
+  {
+    "tag": "foot care",
+    "count": 1
+  },
+  {
+    "tag": "healthcare.",
+    "count": 1
+  },
+  {
+    "tag": "durability",
+    "count": 1
+  },
+  {
+    "tag": "emergency responders",
+    "count": 1
+  },
+  {
+    "tag": "rugged",
+    "count": 1
+  },
+  {
+    "tag": "usa",
+    "count": 1
+  },
+  {
+    "tag": "educational-content",
+    "count": 1
+  },
+  {
+    "tag": "historical-documents",
+    "count": 1
+  },
+  {
+    "tag": "research",
+    "count": 1
+  },
+  {
+    "tag": "academic",
+    "count": 1
+  },
+  {
+    "tag": "researchers",
+    "count": 1
+  },
+  {
+    "tag": "historians.",
+    "count": 1
+  },
+  {
+    "tag": "ergonomics",
+    "count": 1
+  },
+  {
+    "tag": "chairs",
+    "count": 1
+  },
+  {
+    "tag": "desks",
+    "count": 1
+  },
+  {
+    "tag": "office",
+    "count": 1
+  },
+  {
+    "tag": "financing",
+    "count": 1
+  },
+  {
+    "tag": "undergarments",
+    "count": 1
+  },
+  {
+    "tag": "boxer briefs",
+    "count": 1
+  },
+  {
+    "tag": "hipster shorts",
+    "count": 1
+  },
+  {
+    "tag": "bikini briefs",
+    "count": 1
+  },
+  {
+    "tag": "hygiene",
+    "count": 1
+  },
+  {
+    "tag": "liv",
+    "count": 1
+  },
+  {
+    "tag": "league",
+    "count": 1
+  },
+  {
+    "tag": "tournaments",
+    "count": 1
+  },
+  {
+    "tag": "leaders",
+    "count": 1
+  },
+  {
+    "tag": "peripherals",
+    "count": 1
+  },
+  {
+    "tag": "gamingequipment",
+    "count": 1
+  },
+  {
+    "tag": "headsets",
+    "count": 1
+  },
+  {
+    "tag": "cyrillus",
+    "count": 1
+  },
+  {
+    "tag": "children's wear",
+    "count": 1
+  },
+  {
+    "tag": "trends",
+    "count": 1
+  },
+  {
+    "tag": "loyalty program",
+    "count": 1
+  },
+  {
+    "tag": "e-reservation.",
+    "count": 1
+  },
+  {
+    "tag": "surfing",
+    "count": 1
+  },
+  {
+    "tag": "quiksilver",
+    "count": 1
+  },
+  {
+    "tag": "fashionindustry",
+    "count": 1
+  },
+  {
+    "tag": "womenshoes",
+    "count": 1
+  },
+  {
+    "tag": "mensaccessories",
+    "count": 1
+  },
+  {
+    "tag": "belts",
+    "count": 1
+  },
+  {
+    "tag": "outdoor equipment",
+    "count": 1
+  },
+  {
+    "tag": "landscaping",
+    "count": 1
+  },
+  {
+    "tag": "dewalt",
+    "count": 1
+  },
+  {
+    "tag": "mowers",
+    "count": 1
+  },
+  {
+    "tag": "trimmers",
+    "count": 1
+  },
+  {
+    "tag": "flannels",
+    "count": 1
+  },
+  {
+    "tag": "youthwear",
+    "count": 1
+  },
+  {
+    "tag": "retailstore",
+    "count": 1
+  },
+  {
+    "tag": "physicalstore.",
+    "count": 1
+  },
+  {
+    "tag": "bathroom essentials",
+    "count": 1
+  },
+  {
+    "tag": "asia",
+    "count": 1
+  },
+  {
+    "tag": "cart checkout",
+    "count": 1
+  },
+  {
+    "tag": "gift wrapping",
+    "count": 1
+  },
+  {
+    "tag": "casual footwear",
+    "count": 1
+  },
+  {
+    "tag": "kids'",
+    "count": 1
+  },
+  {
+    "tag": "nfl",
+    "count": 1
+  },
+  {
+    "tag": "partnerships",
+    "count": 1
+  },
+  {
+    "tag": "onlineshopping.",
+    "count": 1
+  },
+  {
+    "tag": "loyalty programs",
+    "count": 1
+  },
+  {
+    "tag": "referral",
+    "count": 1
+  },
+  {
+    "tag": "interior design.",
+    "count": 1
+  },
+  {
+    "tag": "water enhancers",
+    "count": 1
+  },
+  {
+    "tag": "flavored waters",
+    "count": 1
+  },
+  {
+    "tag": "fitness products",
+    "count": 1
+  },
+  {
+    "tag": "natural flavors",
+    "count": 1
+  },
+  {
+    "tag": "hydration solutions",
+    "count": 1
+  },
+  {
+    "tag": "flavor pods",
+    "count": 1
+  },
+  {
+    "tag": "wellness industry",
+    "count": 1
+  },
+  {
+    "tag": "specialty",
+    "count": 1
+  },
+  {
+    "tag": "shop",
+    "count": 1
+  },
+  {
+    "tag": "raffle",
+    "count": 1
+  },
+  {
+    "tag": "lottery",
+    "count": 1
+  },
+  {
+    "tag": "donation",
+    "count": 1
+  },
+  {
+    "tag": "competition",
+    "count": 1
+  },
+  {
+    "tag": "residence",
+    "count": 1
+  },
+  {
+    "tag": "advocacy",
+    "count": 1
+  },
+  {
+    "tag": "equality",
+    "count": 1
+  },
+  {
+    "tag": "justice",
+    "count": 1
+  },
+  {
+    "tag": "women's rights",
+    "count": 1
+  },
+  {
+    "tag": "reproductive health",
+    "count": 1
+  },
+  {
+    "tag": "racial equity",
+    "count": 1
+  },
+  {
+    "tag": "feminism",
+    "count": 1
+  },
+  {
+    "tag": "policy",
+    "count": 1
+  },
+  {
+    "tag": "donations.",
+    "count": 1
+  },
+  {
+    "tag": "collaborations.",
+    "count": 1
+  },
+  {
+    "tag": "suppliers",
+    "count": 1
+  },
+  {
+    "tag": "espresso",
+    "count": 1
+  },
+  {
+    "tag": "coffee makers",
+    "count": 1
+  },
+  {
+    "tag": "grinders",
+    "count": 1
+  },
+  {
+    "tag": "drinkware.",
+    "count": 1
+  },
+  {
+    "tag": "jobs",
+    "count": 1
+  },
+  {
+    "tag": "accounting",
+    "count": 1
+  },
+  {
+    "tag": "immigration",
+    "count": 1
+  },
+  {
+    "tag": "employment",
+    "count": 1
+  },
+  {
+    "tag": "losangeles",
+    "count": 1
+  },
+  {
+    "tag": "koreanamerican",
+    "count": 1
+  },
+  {
+    "tag": "jobsaccounting.",
+    "count": 1
+  },
+  {
+    "tag": "moschino",
+    "count": 1
+  },
+  {
+    "tag": "women'sfashion",
+    "count": 1
+  },
+  {
+    "tag": "men'sfashion",
+    "count": 1
+  },
+  {
+    "tag": "wallets.",
+    "count": 1
+  },
+  {
+    "tag": "gold",
+    "count": 1
+  },
+  {
+    "tag": "necklaces",
+    "count": 1
+  },
+  {
+    "tag": "bracelets",
+    "count": 1
+  },
+  {
+    "tag": "women's jewelry",
+    "count": 1
+  },
+  {
+    "tag": "men's jewelry",
+    "count": 1
+  },
+  {
+    "tag": "specialty coffee",
+    "count": 1
+  },
+  {
+    "tag": "roasts",
+    "count": 1
+  },
+  {
+    "tag": "brewing methods",
+    "count": 1
+  },
+  {
+    "tag": "tea",
+    "count": 1
+  },
+  {
+    "tag": "office supplies",
+    "count": 1
+  },
+  {
+    "tag": "recognition",
+    "count": 1
+  },
+  {
+    "tag": "awards",
+    "count": 1
+  },
+  {
+    "tag": "industries",
+    "count": 1
+  },
+  {
+    "tag": "programs",
+    "count": 1
+  },
+  {
+    "tag": "stevies",
+    "count": 1
+  },
+  {
+    "tag": "honors",
+    "count": 1
+  },
+  {
+    "tag": "vera",
+    "count": 1
+  },
+  {
+    "tag": "bradley",
+    "count": 1
+  },
+  {
+    "tag": "outlet",
+    "count": 1
+  },
+  {
+    "tag": "models",
+    "count": 1
+  },
+  {
+    "tag": "miniatures",
+    "count": 1
+  },
+  {
+    "tag": "models kits",
+    "count": 1
+  },
+  {
+    "tag": "architecture",
+    "count": 1
+  },
+  {
+    "tag": "building",
+    "count": 1
+  },
+  {
+    "tag": "construction",
+    "count": 1
+  },
+  {
+    "tag": "childrens",
+    "count": 1
+  },
+  {
+    "tag": "hobbies",
+    "count": 1
+  },
+  {
+    "tag": "horror fashion",
+    "count": 1
+  },
+  {
+    "tag": "gothic style",
+    "count": 1
+  },
+  {
+    "tag": "treatments",
+    "count": 1
+  },
+  {
+    "tag": "fragilehair",
+    "count": 1
+  },
+  {
+    "tag": "damagedhair",
+    "count": 1
+  },
+  {
+    "tag": "inspirational",
+    "count": 1
+  },
+  {
+    "tag": "motivational",
+    "count": 1
+  },
+  {
+    "tag": "christianity",
+    "count": 1
+  },
+  {
+    "tag": "digital magazine",
+    "count": 1
+  },
+  {
+    "tag": "spiritual guidance",
+    "count": 1
+  },
+  {
+    "tag": "inspiration",
+    "count": 1
+  },
+  {
+    "tag": "christian living",
+    "count": 1
+  },
+  {
+    "tag": "bible studies",
+    "count": 1
+  },
+  {
+    "tag": "prayer guides",
+    "count": 1
+  },
+  {
+    "tag": "devotionals.",
+    "count": 1
+  },
+  {
+    "tag": "wedding wear",
+    "count": 1
+  },
+  {
+    "tag": "eyewear",
+    "count": 1
+  },
+  {
+    "tag": "optometrist",
+    "count": 1
+  },
+  {
+    "tag": "eyecare",
+    "count": 1
+  },
+  {
+    "tag": "frames",
+    "count": 1
+  },
+  {
+    "tag": "lenses",
+    "count": 1
+  },
+  {
+    "tag": "optical",
+    "count": 1
+  },
+  {
+    "tag": "medical",
+    "count": 1
+  },
+  {
+    "tag": "affordable",
+    "count": 1
+  },
+  {
+    "tag": "ai",
+    "count": 1
+  },
+  {
+    "tag": "machine learning",
+    "count": 1
+  },
+  {
+    "tag": "terraform",
+    "count": 1
+  },
+  {
+    "tag": "devops",
+    "count": 1
+  },
+  {
+    "tag": "cloud computing",
+    "count": 1
+  },
+  {
+    "tag": "cybersecurity",
+    "count": 1
+  },
+  {
+    "tag": "gpus",
+    "count": 1
+  },
+  {
+    "tag": "vdi",
+    "count": 1
+  },
+  {
+    "tag": "engineering",
+    "count": 1
+  },
+  {
+    "tag": "leadership",
+    "count": 1
+  },
+  {
+    "tag": "conferences",
+    "count": 1
+  },
+  {
+    "tag": "reaganlegacy",
+    "count": 1
+  },
+  {
+    "tag": "studentresources",
+    "count": 1
+  },
+  {
+    "tag": "professionaldevelopment",
+    "count": 1
+  },
+  {
+    "tag": "politicsnews",
+    "count": 1
+  },
+  {
+    "tag": "historicalpreservation",
+    "count": 1
+  },
+  {
+    "tag": "publicevents",
+    "count": 1
+  },
+  {
+    "tag": "eventplanning",
+    "count": 1
+  },
+  {
+    "tag": "bookingservices",
+    "count": 1
+  },
+  {
+    "tag": "leadershipcenter",
+    "count": 1
+  },
+  {
+    "tag": "spirits",
+    "count": 1
+  },
+  {
+    "tag": "wine",
+    "count": 1
+  },
+  {
+    "tag": "mixers",
+    "count": 1
+  },
+  {
+    "tag": "glassware",
+    "count": 1
+  },
+  {
+    "tag": "adult",
+    "count": 1
+  },
+  {
+    "tag": "enthusiast",
+    "count": 1
+  },
+  {
+    "tag": "alcohol",
+    "count": 1
+  },
+  {
+    "tag": "liquor",
+    "count": 1
+  },
+  {
+    "tag": "europe",
+    "count": 1
+  },
+  {
+    "tag": "trolleys",
+    "count": 1
+  },
+  {
+    "tag": "audiophile",
+    "count": 1
+  },
+  {
+    "tag": "amps",
+    "count": 1
+  },
+  {
+    "tag": "hi-res audio players",
+    "count": 1
+  },
+  {
+    "tag": "wireless cables",
+    "count": 1
+  },
+  {
+    "tag": "home audio equipment",
+    "count": 1
+  },
+  {
+    "tag": "sound equipment",
+    "count": 1
+  },
+  {
+    "tag": "audio gear",
+    "count": 1
+  },
+  {
+    "tag": "value for money",
+    "count": 1
+  },
+  {
+    "tag": "beginners",
+    "count": 1
+  },
+  {
+    "tag": "balanced output",
+    "count": 1
+  },
+  {
+    "tag": "type-c",
+    "count": 1
+  },
+  {
+    "tag": "power output",
+    "count": 1
+  },
+  {
+    "tag": "dac chip",
+    "count": 1
+  },
+  {
+    "tag": "premium economy",
+    "count": 1
+  },
+  {
+    "tag": "high-performance audio devices",
+    "count": 1
+  },
+  {
+    "tag": "portable audio players",
+    "count": 1
+  },
+  {
+    "tag": "ear-clips",
+    "count": 1
+  },
+  {
+    "tag": "universal connectivity",
+    "count": 1
+  },
+  {
+    "tag": "audiophile journey",
+    "count": 1
+  },
+  {
+    "tag": "brand-specific products",
+    "count": 1
+  },
+  {
+    "tag": "fiio",
+    "count": 1
+  },
+  {
+    "tag": "sennheiser",
+    "count": 1
+  },
+  {
+    "tag": "audio-technica",
+    "count": 1
+  },
+  {
+    "tag": "budget-friendly",
+    "count": 1
+  },
+  {
+    "tag": "pre-amplifiers",
+    "count": 1
+  },
+  {
+    "tag": "cd players",
+    "count": 1
+  },
+  {
+    "tag": "feliks audio",
+    "count": 1
+  },
+  {
+    "tag": "aune audio",
+    "count": 1
+  },
+  {
+    "tag": "shanling",
+    "count": 1
+  },
+  {
+    "tag": "cayin",
+    "count": 1
+  },
+  {
+    "tag": "stax",
+    "count": 1
+  },
+  {
+    "tag": "high-end headphones",
+    "count": 1
+  },
+  {
+    "tag": "audio accessories",
+    "count": 1
+  },
+  {
+    "tag": "beginner-friendly",
+    "count": 1
+  },
+  {
+    "tag": "product features",
+    "count": 1
+  },
+  {
+    "tag": "technical specifications",
+    "count": 1
+  },
+  {
+    "tag": "high-end audio equipment",
+    "count": 1
+  },
+  {
+    "tag": "bodycare",
+    "count": 1
+  },
+  {
+    "tag": "note-taking",
+    "count": 1
+  },
+  {
+    "tag": "men's health",
+    "count": 1
+  },
+  {
+    "tag": "shaving tools",
+    "count": 1
+  },
+  {
+    "tag": "hair care",
+    "count": 1
+  },
+  {
+    "tag": "vitamin c serums",
+    "count": 1
+  },
+  {
+    "tag": "lip balms",
+    "count": 1
+  },
+  {
+    "tag": "hair growth kits",
+    "count": 1
+  },
+  {
+    "tag": "beard care",
+    "count": 1
+  },
+  {
+    "tag": "shave care.",
+    "count": 1
+  },
+  {
+    "tag": "birkenstock",
+    "count": 1
+  },
+  {
+    "tag": "kids' shoes",
+    "count": 1
+  },
+  {
+    "tag": "synthetic",
+    "count": 1
+  },
+  {
+    "tag": "pharmacy",
+    "count": 1
+  },
+  {
+    "tag": "telemedicine",
+    "count": 1
+  },
+  {
+    "tag": "healthcare-services",
+    "count": 1
+  },
+  {
+    "tag": "medical-supplies",
+    "count": 1
+  },
+  {
+    "tag": "online-pharmacy",
+    "count": 1
+  },
+  {
+    "tag": "employee-benefits",
+    "count": 1
+  },
+  {
+    "tag": "corporate-solutions",
+    "count": 1
+  },
+  {
+    "tag": "teleconsultation",
+    "count": 1
+  },
+  {
+    "tag": "online-shop",
+    "count": 1
+  },
+  {
+    "tag": "categories",
+    "count": 1
+  },
+  {
+    "tag": "mousepads",
+    "count": 1
+  },
+  {
+    "tag": "webcams",
+    "count": 1
+  },
+  {
+    "tag": "microphones",
+    "count": 1
+  },
+  {
+    "tag": "gadgets.",
+    "count": 1
+  },
+  {
+    "tag": "anime",
+    "count": 1
+  },
+  {
+    "tag": "manga",
+    "count": 1
+  },
+  {
+    "tag": "costumes",
+    "count": 1
+  },
+  {
+    "tag": "wigs",
+    "count": 1
+  },
+  {
+    "tag": "props",
+    "count": 1
+  },
+  {
+    "tag": "plushies",
+    "count": 1
+  },
+  {
+    "tag": "protectivegear",
+    "count": 1
+  },
+  {
+    "tag": "industrialsafety",
+    "count": 1
+  },
+  {
+    "tag": "safetyfootwear",
+    "count": 1
+  },
+  {
+    "tag": "outdoorworkwear",
+    "count": 1
+  },
+  {
+    "tag": "workboots",
+    "count": 1
+  },
+  {
+    "tag": "hardhataccessories",
+    "count": 1
+  },
+  {
+    "tag": "snowboarding",
+    "count": 1
+  },
+  {
+    "tag": "sports apparel",
+    "count": 1
+  },
+  {
+    "tag": "deal",
+    "count": 1
+  },
+  {
+    "tag": "suits",
+    "count": 1
+  },
+  {
+    "tag": "lehenga",
+    "count": 1
+  },
+  {
+    "tag": "bollywood fashion",
+    "count": 1
+  },
+  {
+    "tag": "desi outfits",
+    "count": 1
+  },
+  {
+    "tag": "style inspiration",
+    "count": 1
+  },
+  {
+    "tag": "color coordination.",
+    "count": 1
+  },
+  {
+    "tag": "watch e-commerce",
+    "count": 1
+  },
+  {
+    "tag": "high-end watches",
+    "count": 1
+  },
+  {
+    "tag": "uk retailers",
+    "count": 1
+  },
+  {
+    "tag": "luxury brands",
+    "count": 1
+  },
+  {
+    "tag": "mens watches",
+    "count": 1
+  },
+  {
+    "tag": "womens watches",
+    "count": 1
+  },
+  {
+    "tag": "pre-owned watches",
+    "count": 1
+  },
+  {
+    "tag": "fashion jewelry.",
+    "count": 1
+  },
+  {
+    "tag": "power banks",
+    "count": 1
+  },
+  {
+    "tag": "car accessories",
+    "count": 1
+  },
+  {
+    "tag": "computer accessories",
+    "count": 1
+  },
+  {
+    "tag": "wireless charging",
+    "count": 1
+  },
+  {
+    "tag": "electronic accessories",
+    "count": 1
+  },
+  {
+    "tag": "smart home devices.",
+    "count": 1
+  },
+  {
+    "tag": "chocolates",
+    "count": 1
+  },
+  {
+    "tag": "biscuits",
+    "count": 1
+  },
+  {
+    "tag": "general",
+    "count": 1
+  },
+  {
+    "tag": "public",
+    "count": 1
+  },
+  {
+    "tag": "vitamins",
+    "count": 1
+  },
+  {
+    "tag": "minerals",
+    "count": 1
+  },
+  {
+    "tag": "cleanse",
+    "count": 1
+  },
+  {
+    "tag": "detox",
+    "count": 1
+  },
+  {
+    "tag": "herbal",
+    "count": 1
+  },
+  {
+    "tag": "living.",
+    "count": 1
+  },
+  {
+    "tag": "office chairs",
+    "count": 1
+  },
+  {
+    "tag": "smartgrid",
+    "count": 1
+  },
+  {
+    "tag": "product comparison",
+    "count": 1
+  },
+  {
+    "tag": "furniture technology",
+    "count": 1
+  },
+  {
+    "tag": "bedding accessories.",
+    "count": 1
+  },
+  {
+    "tag": "wear",
+    "count": 1
+  },
+  {
+    "tag": "snocks",
+    "count": 1
+  },
+  {
+    "tag": "club",
+    "count": 1
+  },
+  {
+    "tag": "protection",
+    "count": 1
+  },
+  {
+    "tag": "cleverpush",
+    "count": 1
+  },
+  {
+    "tag": "push",
+    "count": 1
+  },
+  {
+    "tag": "notifications",
+    "count": 1
+  },
+  {
+    "tag": "consent",
+    "count": 1
+  },
+  {
+    "tag": "personal",
+    "count": 1
+  },
+  {
+    "tag": "pixel-saber",
+    "count": 1
+  },
+  {
+    "tag": "sci-fi",
+    "count": 1
+  },
+  {
+    "tag": "lightsaber",
+    "count": 1
+  },
+  {
+    "tag": "clubs",
+    "count": 1
+  },
+  {
+    "tag": "portfolio",
+    "count": 1
+  },
+  {
+    "tag": "coats",
+    "count": 1
+  },
+  {
+    "tag": "turkish",
+    "count": 1
+  },
+  {
+    "tag": "market",
+    "count": 1
+  },
+  {
+    "tag": "t\u00fcrkiye",
+    "count": 1
+  },
+  {
+    "tag": "shampoos",
+    "count": 1
+  },
+  {
+    "tag": "conditioners",
+    "count": 1
+  },
+  {
+    "tag": "toners",
+    "count": 1
+  },
+  {
+    "tag": "acne",
+    "count": 1
+  },
+  {
+    "tag": "sensitive skin",
+    "count": 1
+  },
+  {
+    "tag": "dry hair",
+    "count": 1
+  },
+  {
+    "tag": "dandruff.",
+    "count": 1
+  },
+  {
+    "tag": "air-purifiers",
+    "count": 1
+  },
+  {
+    "tag": "home-improvement",
+    "count": 1
+  },
+  {
+    "tag": "indoor-air-quality",
+    "count": 1
+  },
+  {
+    "tag": "product-sales",
+    "count": 1
+  },
+  {
+    "tag": "online-retail",
+    "count": 1
+  },
+  {
+    "tag": "medical-divices",
+    "count": 1
+  },
+  {
+    "tag": "filtration-systems",
+    "count": 1
+  },
+  {
+    "tag": "peco-technology.",
+    "count": 1
+  },
+  {
+    "tag": "places",
+    "count": 1
+  },
+  {
+    "tag": "educational",
+    "count": 1
+  },
+  {
+    "tag": "lehengas",
+    "count": 1
+  },
+  {
+    "tag": "traditional wear",
+    "count": 1
+  },
+  {
+    "tag": "cultural clothing",
+    "count": 1
+  },
+  {
+    "tag": "fashion retailers.",
+    "count": 1
+  },
+  {
+    "tag": "pakistani",
+    "count": 1
+  },
+  {
+    "tag": "trousers",
+    "count": 1
+  },
+  {
+    "tag": "dupattas",
+    "count": 1
+  },
+  {
+    "tag": "tees",
+    "count": 1
+  },
+  {
+    "tag": "camping equipment",
+    "count": 1
+  },
+  {
+    "tag": "online retail",
+    "count": 1
+  },
+  {
+    "tag": "fencing",
+    "count": 1
+  },
+  {
+    "tag": "collars",
+    "count": 1
+  },
+  {
+    "tag": "harnesses",
+    "count": 1
+  },
+  {
+    "tag": "litter",
+    "count": 1
+  },
+  {
+    "tag": "trays",
+    "count": 1
+  },
+  {
+    "tag": "care",
+    "count": 1
+  },
+  {
+    "tag": "training",
+    "count": 1
+  },
+  {
+    "tag": "customer",
+    "count": 1
+  },
+  {
+    "tag": "help",
+    "count": 1
+  },
+  {
+    "tag": "center",
+    "count": 1
+  },
+  {
+    "tag": "affiliate",
+    "count": 1
+  },
+  {
+    "tag": "program.",
+    "count": 1
+  },
+  {
+    "tag": "italian",
+    "count": 1
+  },
+  {
+    "tag": "artisans",
+    "count": 1
+  },
+  {
+    "tag": "handcrafted",
+    "count": 1
+  },
+  {
+    "tag": "affluent",
+    "count": 1
+  },
+  {
+    "tag": "garments",
+    "count": 1
+  },
+  {
+    "tag": "affordable fashion",
+    "count": 1
+  },
+  {
+    "tag": "fashion retailer",
+    "count": 1
+  },
+  {
+    "tag": "doors",
+    "count": 1
+  },
+  {
+    "tag": "pet supplies",
+    "count": 1
+  },
+  {
+    "tag": "rabbit",
+    "count": 1
+  },
+  {
+    "tag": "turtle",
+    "count": 1
+  },
+  {
+    "tag": "party supplies",
+    "count": 1
+  },
+  {
+    "tag": "wedding favors",
+    "count": 1
+  },
+  {
+    "tag": "party decorations",
+    "count": 1
+  },
+  {
+    "tag": "social gatherings",
+    "count": 1
+  },
+  {
+    "tag": "special events.",
+    "count": 1
+  },
+  {
+    "tag": "pricing plans",
+    "count": 1
+  },
+  {
+    "tag": "merchant services",
+    "count": 1
+  },
+  {
+    "tag": "outdoor activities",
+    "count": 1
+  },
+  {
+    "tag": "cleaning",
+    "count": 1
+  }
+]
