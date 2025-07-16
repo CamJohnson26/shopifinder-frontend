@@ -1,39 +1,39 @@
 [
   {
     "tag": "e-commerce",
-    "count": 194
+    "count": 198
   },
   {
     "tag": "retail",
-    "count": 96
-  },
-  {
-    "tag": "fashion",
-    "count": 77
+    "count": 100
   },
   {
     "tag": "accessories",
-    "count": 74
+    "count": 79
+  },
+  {
+    "tag": "fashion",
+    "count": 78
   },
   {
     "tag": "clothing",
-    "count": 65
+    "count": 67
   },
   {
     "tag": "shopping",
-    "count": 62
+    "count": 61
   },
   {
     "tag": "online shopping",
-    "count": 57
+    "count": 58
   },
   {
     "tag": "apparel",
-    "count": 38
+    "count": 40
   },
   {
     "tag": "electronics",
-    "count": 30
+    "count": 32
   },
   {
     "tag": "sales",
@@ -41,23 +41,15 @@
   },
   {
     "tag": "products",
-    "count": 27
+    "count": 28
   },
   {
     "tag": "discounts",
-    "count": 23
+    "count": 24
   },
   {
     "tag": "shoes",
     "count": 23
-  },
-  {
-    "tag": "sports",
-    "count": 19
-  },
-  {
-    "tag": "news",
-    "count": 18
   },
   {
     "tag": "footwear",
@@ -65,23 +57,15 @@
   },
   {
     "tag": "online",
-    "count": 17
-  },
-  {
-    "tag": "lifestyle",
     "count": 16
   },
   {
-    "tag": "education",
+    "tag": "sports",
     "count": 16
   },
   {
     "tag": "bags",
     "count": 16
-  },
-  {
-    "tag": "entertainment",
-    "count": 15
   },
   {
     "tag": "beauty",
@@ -92,19 +76,27 @@
     "count": 15
   },
   {
+    "tag": "gifts",
+    "count": 14
+  },
+  {
     "tag": "collectibles",
     "count": 14
   },
   {
-    "tag": "gifts",
+    "tag": "lifestyle",
     "count": 13
   },
   {
-    "tag": "technology",
+    "tag": "subscription",
     "count": 12
   },
   {
-    "tag": "business",
+    "tag": "education",
+    "count": 12
+  },
+  {
+    "tag": "news",
     "count": 12
   },
   {
@@ -124,15 +116,19 @@
     "count": 12
   },
   {
-    "tag": "shopify",
-    "count": 11
-  },
-  {
-    "tag": "subscription",
+    "tag": "entertainment",
     "count": 11
   },
   {
     "tag": "skincare",
+    "count": 11
+  },
+  {
+    "tag": "deals",
+    "count": 11
+  },
+  {
+    "tag": "technology",
     "count": 11
   },
   {
@@ -148,15 +144,19 @@
     "count": 11
   },
   {
-    "tag": "ecommerce",
-    "count": 10
-  },
-  {
     "tag": "wellness",
     "count": 10
   },
   {
-    "tag": "deals",
+    "tag": "online-store",
+    "count": 10
+  },
+  {
+    "tag": "business",
+    "count": 10
+  },
+  {
+    "tag": "tops",
     "count": 10
   },
   {
@@ -164,7 +164,15 @@
     "count": 10
   },
   {
+    "tag": "customer service",
+    "count": 10
+  },
+  {
     "tag": "software",
+    "count": 9
+  },
+  {
+    "tag": "merchandise",
     "count": 9
   },
   {
@@ -172,15 +180,7 @@
     "count": 9
   },
   {
-    "tag": "online-store",
-    "count": 9
-  },
-  {
     "tag": "promotions",
-    "count": 9
-  },
-  {
-    "tag": "tops",
     "count": 9
   },
   {
@@ -188,11 +188,11 @@
     "count": 9
   },
   {
-    "tag": "shopping.",
+    "tag": "outdoor",
     "count": 9
   },
   {
-    "tag": "customer service",
+    "tag": "shopify",
     "count": 9
   },
   {
@@ -208,11 +208,11 @@
     "count": 8
   },
   {
-    "tag": "music",
+    "tag": "shipping",
     "count": 8
   },
   {
-    "tag": "merchandise",
+    "tag": "music",
     "count": 8
   },
   {
@@ -220,11 +220,11 @@
     "count": 8
   },
   {
-    "tag": "outdoor",
+    "tag": "shopping.",
     "count": 8
   },
   {
-    "tag": "analytics",
+    "tag": "ecommerce",
     "count": 8
   },
   {
@@ -232,15 +232,11 @@
     "count": 8
   },
   {
-    "tag": "politics",
-    "count": 7
-  },
-  {
     "tag": "gear",
     "count": 7
   },
   {
-    "tag": "shipping",
+    "tag": "consumer goods",
     "count": 7
   },
   {
@@ -248,7 +244,15 @@
     "count": 7
   },
   {
+    "tag": "gadgets",
+    "count": 7
+  },
+  {
     "tag": "games",
+    "count": 7
+  },
+  {
+    "tag": "activewear",
     "count": 7
   },
   {
@@ -272,7 +276,15 @@
     "count": 7
   },
   {
+    "tag": "analytics",
+    "count": 7
+  },
+  {
     "tag": "women's fashion",
+    "count": 7
+  },
+  {
+    "tag": "swimwear",
     "count": 7
   },
   {
@@ -288,27 +300,7 @@
     "count": 7
   },
   {
-    "tag": "commerce",
-    "count": 6
-  },
-  {
-    "tag": "culture",
-    "count": 6
-  },
-  {
-    "tag": "apps",
-    "count": 6
-  },
-  {
-    "tag": "finance",
-    "count": 6
-  },
-  {
     "tag": "pop culture",
-    "count": 6
-  },
-  {
-    "tag": "gadgets",
     "count": 6
   },
   {
@@ -316,7 +308,7 @@
     "count": 6
   },
   {
-    "tag": "activewear",
+    "tag": "kitchenware",
     "count": 6
   },
   {
@@ -336,11 +328,19 @@
     "count": 6
   },
   {
-    "tag": "swimwear",
+    "tag": "bedding",
+    "count": 6
+  },
+  {
+    "tag": "bottoms",
     "count": 6
   },
   {
     "tag": "personal care",
+    "count": 6
+  },
+  {
+    "tag": "store",
     "count": 6
   },
   {
@@ -356,23 +356,11 @@
     "count": 6
   },
   {
-    "tag": "entrepreneurship",
-    "count": 5
-  },
-  {
     "tag": "smart home",
     "count": 5
   },
   {
     "tag": "automation",
-    "count": 5
-  },
-  {
-    "tag": "platform",
-    "count": 5
-  },
-  {
-    "tag": "marketing",
     "count": 5
   },
   {
@@ -384,15 +372,11 @@
     "count": 5
   },
   {
-    "tag": "community",
-    "count": 5
-  },
-  {
     "tag": "online-shopping",
     "count": 5
   },
   {
-    "tag": "consumer goods",
+    "tag": "finance",
     "count": 5
   },
   {
@@ -408,7 +392,7 @@
     "count": 5
   },
   {
-    "tag": "students",
+    "tag": "tech",
     "count": 5
   },
   {
@@ -428,10 +412,6 @@
     "count": 5
   },
   {
-    "tag": "kitchenware",
-    "count": 5
-  },
-  {
     "tag": "charity",
     "count": 5
   },
@@ -440,15 +420,19 @@
     "count": 5
   },
   {
+    "tag": "food",
+    "count": 5
+  },
+  {
     "tag": "discount",
     "count": 5
   },
   {
-    "tag": "bedding",
+    "tag": "t-shirts",
     "count": 5
   },
   {
-    "tag": "bottoms",
+    "tag": "cycling",
     "count": 5
   },
   {
@@ -461,10 +445,6 @@
   },
   {
     "tag": "boots",
-    "count": 5
-  },
-  {
-    "tag": "store",
     "count": 5
   },
   {
@@ -484,15 +464,7 @@
     "count": 5
   },
   {
-    "tag": "developers",
-    "count": 4
-  },
-  {
     "tag": "home improvement",
-    "count": 4
-  },
-  {
-    "tag": "onlinestore",
     "count": 4
   },
   {
@@ -512,11 +484,15 @@
     "count": 4
   },
   {
-    "tag": "geography",
+    "tag": "family",
     "count": 4
   },
   {
-    "tag": "family",
+    "tag": "home appliances",
+    "count": 4
+  },
+  {
+    "tag": "platform",
     "count": 4
   },
   {
@@ -524,11 +500,19 @@
     "count": 4
   },
   {
-    "tag": "tech",
+    "tag": "apps",
+    "count": 4
+  },
+  {
+    "tag": "students",
     "count": 4
   },
   {
     "tag": "marketplace",
+    "count": 4
+  },
+  {
+    "tag": "tablets",
     "count": 4
   },
   {
@@ -540,11 +524,11 @@
     "count": 4
   },
   {
-    "tag": "online stores",
+    "tag": "donations",
     "count": 4
   },
   {
-    "tag": "donations",
+    "tag": "marketing",
     "count": 4
   },
   {
@@ -560,23 +544,15 @@
     "count": 4
   },
   {
-    "tag": "food",
-    "count": 4
-  },
-  {
-    "tag": "t-shirts",
-    "count": 4
-  },
-  {
     "tag": "sale",
     "count": 4
   },
   {
-    "tag": "computer",
+    "tag": "advertising",
     "count": 4
   },
   {
-    "tag": "cycling",
+    "tag": "computer",
     "count": 4
   },
   {
@@ -632,31 +608,15 @@
     "count": 4
   },
   {
-    "tag": "small-business",
-    "count": 3
-  },
-  {
     "tag": "cameras",
     "count": 3
   },
   {
-    "tag": "media",
+    "tag": "community",
     "count": 3
   },
   {
-    "tag": "history",
-    "count": 3
-  },
-  {
-    "tag": "arts",
-    "count": 3
-  },
-  {
-    "tag": "japan",
-    "count": 3
-  },
-  {
-    "tag": "non-profit",
+    "tag": "photography",
     "count": 3
   },
   {
@@ -668,7 +628,11 @@
     "count": 3
   },
   {
-    "tag": "home appliances",
+    "tag": "mobile devices",
+    "count": 3
+  },
+  {
+    "tag": "developers",
     "count": 3
   },
   {
@@ -676,11 +640,11 @@
     "count": 3
   },
   {
-    "tag": "global",
+    "tag": "onlinestore",
     "count": 3
   },
   {
-    "tag": "integrations",
+    "tag": "global",
     "count": 3
   },
   {
@@ -688,19 +652,7 @@
     "count": 3
   },
   {
-    "tag": "tablets",
-    "count": 3
-  },
-  {
     "tag": "audio equipment",
-    "count": 3
-  },
-  {
-    "tag": "blog",
-    "count": 3
-  },
-  {
-    "tag": "online courses",
     "count": 3
   },
   {
@@ -709,10 +661,6 @@
   },
   {
     "tag": "families",
-    "count": 3
-  },
-  {
-    "tag": "directory",
     "count": 3
   },
   {
@@ -728,11 +676,11 @@
     "count": 3
   },
   {
-    "tag": "collaborations",
+    "tag": "culture",
     "count": 3
   },
   {
-    "tag": "seo",
+    "tag": "collaborations",
     "count": 3
   },
   {
@@ -784,6 +732,10 @@
     "count": 3
   },
   {
+    "tag": "politics",
+    "count": 3
+  },
+  {
     "tag": "literature",
     "count": 3
   },
@@ -793,6 +745,10 @@
   },
   {
     "tag": "men's shoes",
+    "count": 3
+  },
+  {
+    "tag": "commerce",
     "count": 3
   },
   {
@@ -808,15 +764,19 @@
     "count": 3
   },
   {
+    "tag": "hydration",
+    "count": 3
+  },
+  {
+    "tag": "geography",
+    "count": 3
+  },
+  {
     "tag": "sales.",
     "count": 3
   },
   {
     "tag": "cookies",
-    "count": 3
-  },
-  {
-    "tag": "advertising",
     "count": 3
   },
   {
@@ -848,7 +808,19 @@
     "count": 3
   },
   {
+    "tag": "socks",
+    "count": 3
+  },
+  {
+    "tag": "product reviews",
+    "count": 3
+  },
+  {
     "tag": "youth",
+    "count": 3
+  },
+  {
+    "tag": "online stores",
     "count": 3
   },
   {
@@ -865,6 +837,14 @@
   },
   {
     "tag": "players",
+    "count": 3
+  },
+  {
+    "tag": "consumer",
+    "count": 3
+  },
+  {
+    "tag": "goods",
     "count": 3
   },
   {
@@ -936,19 +916,11 @@
     "count": 3
   },
   {
-    "tag": "online-retail",
-    "count": 2
-  },
-  {
     "tag": "security",
     "count": 2
   },
   {
     "tag": "locks",
-    "count": 2
-  },
-  {
-    "tag": "management",
     "count": 2
   },
   {
@@ -964,18 +936,6 @@
     "count": 2
   },
   {
-    "tag": "websites",
-    "count": 2
-  },
-  {
-    "tag": "research",
-    "count": 2
-  },
-  {
-    "tag": "museums",
-    "count": 2
-  },
-  {
     "tag": "recreation",
     "count": 2
   },
@@ -988,23 +948,7 @@
     "count": 2
   },
   {
-    "tag": "celebrity news",
-    "count": 2
-  },
-  {
-    "tag": "photography",
-    "count": 2
-  },
-  {
-    "tag": "local",
-    "count": 2
-  },
-  {
-    "tag": "crime",
-    "count": 2
-  },
-  {
-    "tag": "mobile devices",
+    "tag": "small-business",
     "count": 2
   },
   {
@@ -1025,6 +969,10 @@
   },
   {
     "tag": "payments",
+    "count": 2
+  },
+  {
+    "tag": "japan",
     "count": 2
   },
   {
@@ -1052,6 +1000,10 @@
     "count": 2
   },
   {
+    "tag": "integrations",
+    "count": 2
+  },
+  {
     "tag": "collaboration",
     "count": 2
   },
@@ -1072,23 +1024,7 @@
     "count": 2
   },
   {
-    "tag": "italian",
-    "count": 2
-  },
-  {
-    "tag": "newsletters",
-    "count": 2
-  },
-  {
-    "tag": "blogs",
-    "count": 2
-  },
-  {
-    "tag": "parents",
-    "count": 2
-  },
-  {
-    "tag": "quizzes",
+    "tag": "blog",
     "count": 2
   },
   {
@@ -1097,18 +1033,6 @@
   },
   {
     "tag": "product showcase",
-    "count": 2
-  },
-  {
-    "tag": "religion",
-    "count": 2
-  },
-  {
-    "tag": "categories",
-    "count": 2
-  },
-  {
-    "tag": "reference",
     "count": 2
   },
   {
@@ -1136,7 +1060,7 @@
     "count": 2
   },
   {
-    "tag": "loyalty programs",
+    "tag": "media",
     "count": 2
   },
   {
@@ -1152,10 +1076,6 @@
     "count": 2
   },
   {
-    "tag": "merchants",
-    "count": 2
-  },
-  {
     "tag": "app",
     "count": 2
   },
@@ -1168,23 +1088,19 @@
     "count": 2
   },
   {
+    "tag": "seo",
+    "count": 2
+  },
+  {
+    "tag": "non-profit",
+    "count": 2
+  },
+  {
     "tag": "veterans",
     "count": 2
   },
   {
-    "tag": "engineering",
-    "count": 2
-  },
-  {
-    "tag": "environment",
-    "count": 2
-  },
-  {
     "tag": "email",
-    "count": 2
-  },
-  {
-    "tag": "payment processing",
     "count": 2
   },
   {
@@ -1197,6 +1113,10 @@
   },
   {
     "tag": "renewable energy",
+    "count": 2
+  },
+  {
+    "tag": "online courses",
     "count": 2
   },
   {
@@ -1217,10 +1137,6 @@
   },
   {
     "tag": "returns.",
-    "count": 2
-  },
-  {
-    "tag": "pricing plans",
     "count": 2
   },
   {
@@ -1260,6 +1176,10 @@
     "count": 2
   },
   {
+    "tag": "entrepreneurship",
+    "count": 2
+  },
+  {
     "tag": "mattresses",
     "count": 2
   },
@@ -1277,6 +1197,18 @@
   },
   {
     "tag": "chatbots",
+    "count": 2
+  },
+  {
+    "tag": "smartphones",
+    "count": 2
+  },
+  {
+    "tag": "bicycles",
+    "count": 2
+  },
+  {
+    "tag": "water bottles",
     "count": 2
   },
   {
@@ -1336,6 +1268,10 @@
     "count": 2
   },
   {
+    "tag": "boxes",
+    "count": 2
+  },
+  {
     "tag": "hoodies",
     "count": 2
   },
@@ -1360,6 +1296,10 @@
     "count": 2
   },
   {
+    "tag": "directory",
+    "count": 2
+  },
+  {
     "tag": "protein",
     "count": 2
   },
@@ -1369,6 +1309,34 @@
   },
   {
     "tag": "best sellers",
+    "count": 2
+  },
+  {
+    "tag": "beer",
+    "count": 2
+  },
+  {
+    "tag": "underwear",
+    "count": 2
+  },
+  {
+    "tag": "customer reviews",
+    "count": 2
+  },
+  {
+    "tag": "cookware",
+    "count": 2
+  },
+  {
+    "tag": "decor",
+    "count": 2
+  },
+  {
+    "tag": "household items",
+    "count": 2
+  },
+  {
+    "tag": "e-commerce platform",
     "count": 2
   },
   {
@@ -1416,10 +1384,6 @@
     "count": 2
   },
   {
-    "tag": "hydration",
-    "count": 2
-  },
-  {
     "tag": "beverage",
     "count": 2
   },
@@ -1441,14 +1405,6 @@
   },
   {
     "tag": "formal wear",
-    "count": 2
-  },
-  {
-    "tag": "consumer",
-    "count": 2
-  },
-  {
-    "tag": "goods",
     "count": 2
   },
   {
@@ -1584,10 +1540,6 @@
     "count": 2
   },
   {
-    "tag": "product reviews",
-    "count": 2
-  },
-  {
     "tag": "sandals",
     "count": 2
   },
@@ -1628,6 +1580,10 @@
     "count": 2
   },
   {
+    "tag": "history",
+    "count": 2
+  },
+  {
     "tag": "golf",
     "count": 2
   },
@@ -1649,10 +1605,6 @@
   },
   {
     "tag": "pants",
-    "count": 2
-  },
-  {
-    "tag": "socks",
     "count": 2
   },
   {
@@ -1712,26 +1664,6 @@
     "count": 2
   },
   {
-    "tag": "payment-processing",
-    "count": 1
-  },
-  {
-    "tag": "marketing-tools",
-    "count": 1
-  },
-  {
-    "tag": "retail-tech",
-    "count": 1
-  },
-  {
-    "tag": "shopping-platforms",
-    "count": 1
-  },
-  {
-    "tag": "enterprise-software.",
-    "count": 1
-  },
-  {
     "tag": "bulbs",
     "count": 1
   },
@@ -1741,18 +1673,6 @@
   },
   {
     "tag": "iot",
-    "count": 1
-  },
-  {
-    "tag": "smallbusiness",
-    "count": 1
-  },
-  {
-    "tag": "websitebuilder",
-    "count": 1
-  },
-  {
-    "tag": "webdesign",
     "count": 1
   },
   {
@@ -1776,143 +1696,11 @@
     "count": 1
   },
   {
-    "tag": "newspapers",
-    "count": 1
-  },
-  {
-    "tag": "portal",
-    "count": 1
-  },
-  {
-    "tag": "general public",
-    "count": 1
-  },
-  {
-    "tag": "business news",
-    "count": 1
-  },
-  {
-    "tag": "opinion pieces",
-    "count": 1
-  },
-  {
-    "tag": "current events",
-    "count": 1
-  },
-  {
-    "tag": "news aggregator",
-    "count": 1
-  },
-  {
-    "tag": "news portal",
-    "count": 1
-  },
-  {
-    "tag": "libraries",
-    "count": 1
-  },
-  {
-    "tag": "archives",
-    "count": 1
-  },
-  {
-    "tag": "digitalcollections",
-    "count": 1
-  },
-  {
-    "tag": "catalogs",
-    "count": 1
-  },
-  {
-    "tag": "humanities",
-    "count": 1
-  },
-  {
-    "tag": "academicresources",
-    "count": 1
-  },
-  {
-    "tag": "weather",
-    "count": 1
-  },
-  {
-    "tag": "forecasts",
-    "count": 1
-  },
-  {
-    "tag": "alerts",
-    "count": 1
-  },
-  {
-    "tag": "meteorology",
-    "count": 1
-  },
-  {
-    "tag": "forecasting",
-    "count": 1
-  },
-  {
-    "tag": "internet infrastructure",
-    "count": 1
-  },
-  {
-    "tag": "dns",
-    "count": 1
-  },
-  {
-    "tag": "dhcp",
-    "count": 1
-  },
-  {
-    "tag": "bind",
-    "count": 1
-  },
-  {
-    "tag": "kea",
-    "count": 1
-  },
-  {
-    "tag": "isc dhcp",
-    "count": 1
-  },
-  {
-    "tag": "open-source",
-    "count": 1
-  },
-  {
-    "tag": "corporate website",
-    "count": 1
-  },
-  {
     "tag": "trails",
     "count": 1
   },
   {
     "tag": "planning",
-    "count": 1
-  },
-  {
-    "tag": "lifestyle magazine",
-    "count": 1
-  },
-  {
-    "tag": "women's interests",
-    "count": 1
-  },
-  {
-    "tag": "travel deals",
-    "count": 1
-  },
-  {
-    "tag": "celebrity merchandise",
-    "count": 1
-  },
-  {
-    "tag": "world countries",
-    "count": 1
-  },
-  {
-    "tag": "research resources.",
     "count": 1
   },
   {
@@ -1933,18 +1721,6 @@
   },
   {
     "tag": "smart-products",
-    "count": 1
-  },
-  {
-    "tag": "newspaper",
-    "count": 1
-  },
-  {
-    "tag": "chicago",
-    "count": 1
-  },
-  {
-    "tag": "culture.",
     "count": 1
   },
   {
@@ -1993,6 +1769,10 @@
   },
   {
     "tag": "browser",
+    "count": 1
+  },
+  {
+    "tag": "websites",
     "count": 1
   },
   {
@@ -2184,86 +1964,6 @@
     "count": 1
   },
   {
-    "tag": "podcasts",
-    "count": 1
-  },
-  {
-    "tag": "radio",
-    "count": 1
-  },
-  {
-    "tag": "articles",
-    "count": 1
-  },
-  {
-    "tag": "business.",
-    "count": 1
-  },
-  {
-    "tag": "learning",
-    "count": 1
-  },
-  {
-    "tag": "tuition",
-    "count": 1
-  },
-  {
-    "tag": "study materials",
-    "count": 1
-  },
-  {
-    "tag": "competitive exams",
-    "count": 1
-  },
-  {
-    "tag": "cbse",
-    "count": 1
-  },
-  {
-    "tag": "icse",
-    "count": 1
-  },
-  {
-    "tag": "jee",
-    "count": 1
-  },
-  {
-    "tag": "neet",
-    "count": 1
-  },
-  {
-    "tag": "olympiad",
-    "count": 1
-  },
-  {
-    "tag": "online classes",
-    "count": 1
-  },
-  {
-    "tag": "interactive tools",
-    "count": 1
-  },
-  {
-    "tag": "test series",
-    "count": 1
-  },
-  {
-    "tag": "scholarship admission tests",
-    "count": 1
-  },
-  {
-    "tag": "ncert solutions",
-    "count": 1
-  },
-  {
-    "tag": "reference books",
-    "count": 1
-  },
-  {
-    "tag": "practice books",
-    "count": 1
-  },
-  {
     "tag": "barbie",
     "count": 1
   },
@@ -2300,39 +2000,7 @@
     "count": 1
   },
   {
-    "tag": "national",
-    "count": 1
-  },
-  {
-    "tag": "lasvegas",
-    "count": 1
-  },
-  {
-    "tag": "nevada",
-    "count": 1
-  },
-  {
     "tag": "products.",
-    "count": 1
-  },
-  {
-    "tag": "hebrew",
-    "count": 1
-  },
-  {
-    "tag": "judaism",
-    "count": 1
-  },
-  {
-    "tag": "israel",
-    "count": 1
-  },
-  {
-    "tag": "topics",
-    "count": 1
-  },
-  {
-    "tag": "listing",
     "count": 1
   },
   {
@@ -2493,42 +2161,6 @@
   },
   {
     "tag": "vod.",
-    "count": 1
-  },
-  {
-    "tag": "business owners",
-    "count": 1
-  },
-  {
-    "tag": "plans",
-    "count": 1
-  },
-  {
-    "tag": "shopping carts",
-    "count": 1
-  },
-  {
-    "tag": "order management",
-    "count": 1
-  },
-  {
-    "tag": "retention tools",
-    "count": 1
-  },
-  {
-    "tag": "store management",
-    "count": 1
-  },
-  {
-    "tag": "website functionality",
-    "count": 1
-  },
-  {
-    "tag": "solutions",
-    "count": 1
-  },
-  {
-    "tag": "entrepreneur.",
     "count": 1
   },
   {
@@ -2720,26 +2352,6 @@
     "count": 1
   },
   {
-    "tag": "extensions",
-    "count": 1
-  },
-  {
-    "tag": "fields",
-    "count": 1
-  },
-  {
-    "tag": "search",
-    "count": 1
-  },
-  {
-    "tag": "themes",
-    "count": 1
-  },
-  {
-    "tag": "stores",
-    "count": 1
-  },
-  {
     "tag": "video",
     "count": 1
   },
@@ -2848,30 +2460,6 @@
     "count": 1
   },
   {
-    "tag": "space",
-    "count": 1
-  },
-  {
-    "tag": "mars",
-    "count": 1
-  },
-  {
-    "tag": "urban planning",
-    "count": 1
-  },
-  {
-    "tag": "science",
-    "count": 1
-  },
-  {
-    "tag": "astronomy",
-    "count": 1
-  },
-  {
-    "tag": "technology.",
-    "count": 1
-  },
-  {
     "tag": "sms",
     "count": 1
   },
@@ -2885,42 +2473,6 @@
   },
   {
     "tag": "demo",
-    "count": 1
-  },
-  {
-    "tag": "online business management",
-    "count": 1
-  },
-  {
-    "tag": "store creation",
-    "count": 1
-  },
-  {
-    "tag": "sales management",
-    "count": 1
-  },
-  {
-    "tag": "social media marketing",
-    "count": 1
-  },
-  {
-    "tag": "order fulfillment",
-    "count": 1
-  },
-  {
-    "tag": "small businesses",
-    "count": 1
-  },
-  {
-    "tag": "mobile shopping",
-    "count": 1
-  },
-  {
-    "tag": "checkout platform",
-    "count": 1
-  },
-  {
-    "tag": "merchant services.",
     "count": 1
   },
   {
@@ -3060,35 +2612,11 @@
     "count": 1
   },
   {
-    "tag": "saas",
-    "count": 1
-  },
-  {
-    "tag": "product recommendation",
-    "count": 1
-  },
-  {
-    "tag": "online retailers",
-    "count": 1
-  },
-  {
-    "tag": "data collection",
-    "count": 1
-  },
-  {
-    "tag": "segmentation",
-    "count": 1
-  },
-  {
-    "tag": "tagging",
-    "count": 1
-  },
-  {
-    "tag": "software platforms",
-    "count": 1
-  },
-  {
     "tag": "islamic",
+    "count": 1
+  },
+  {
+    "tag": "religion",
     "count": 1
   },
   {
@@ -3244,6 +2772,10 @@
     "count": 1
   },
   {
+    "tag": "celebrity news",
+    "count": 1
+  },
+  {
     "tag": "publications",
     "count": 1
   },
@@ -3301,6 +2833,10 @@
   },
   {
     "tag": "online radio.",
+    "count": 1
+  },
+  {
+    "tag": "management",
     "count": 1
   },
   {
@@ -3396,6 +2932,86 @@
     "count": 1
   },
   {
+    "tag": "mobile phones",
+    "count": 1
+  },
+  {
+    "tag": "nubia",
+    "count": 1
+  },
+  {
+    "tag": "data collection",
+    "count": 1
+  },
+  {
+    "tag": "corporate website",
+    "count": 1
+  },
+  {
+    "tag": "sram",
+    "count": 1
+  },
+  {
+    "tag": "rockshox",
+    "count": 1
+  },
+  {
+    "tag": "cycling products",
+    "count": 1
+  },
+  {
+    "tag": "cycling industry",
+    "count": 1
+  },
+  {
+    "tag": "athleticwear",
+    "count": 1
+  },
+  {
+    "tag": "watersports",
+    "count": 1
+  },
+  {
+    "tag": "surfsports",
+    "count": 1
+  },
+  {
+    "tag": "triathlon",
+    "count": 1
+  },
+  {
+    "tag": "shopbyfit",
+    "count": 1
+  },
+  {
+    "tag": "pricematch",
+    "count": 1
+  },
+  {
+    "tag": "paymentplan",
+    "count": 1
+  },
+  {
+    "tag": "affiliatemarketing",
+    "count": 1
+  },
+  {
+    "tag": "drinkware",
+    "count": 1
+  },
+  {
+    "tag": "stanley",
+    "count": 1
+  },
+  {
+    "tag": "tumblers",
+    "count": 1
+  },
+  {
+    "tag": "environment",
+    "count": 1
+  },
+  {
     "tag": "purifiers",
     "count": 1
   },
@@ -3428,7 +3044,15 @@
     "count": 1
   },
   {
+    "tag": "merchants",
+    "count": 1
+  },
+  {
     "tag": "women's history",
+    "count": 1
+  },
+  {
+    "tag": "museums",
     "count": 1
   },
   {
@@ -3453,10 +3077,6 @@
   },
   {
     "tag": "stussy",
-    "count": 1
-  },
-  {
-    "tag": "bicycles",
     "count": 1
   },
   {
@@ -3564,10 +3184,6 @@
     "count": 1
   },
   {
-    "tag": "boxes",
-    "count": 1
-  },
-  {
     "tag": "patriotic",
     "count": 1
   },
@@ -3668,6 +3284,10 @@
     "count": 1
   },
   {
+    "tag": "parents",
+    "count": 1
+  },
+  {
     "tag": "bakery.",
     "count": 1
   },
@@ -3705,6 +3325,10 @@
   },
   {
     "tag": "checkout acceleration",
+    "count": 1
+  },
+  {
+    "tag": "payment processing",
     "count": 1
   },
   {
@@ -3764,6 +3388,90 @@
     "count": 1
   },
   {
+    "tag": "brewery",
+    "count": 1
+  },
+  {
+    "tag": "restaurant",
+    "count": 1
+  },
+  {
+    "tag": "experiences",
+    "count": 1
+  },
+  {
+    "tag": "kitchen-products",
+    "count": 1
+  },
+  {
+    "tag": "sauces",
+    "count": 1
+  },
+  {
+    "tag": "craft-beer",
+    "count": 1
+  },
+  {
+    "tag": "dining.",
+    "count": 1
+  },
+  {
+    "tag": "outwear",
+    "count": 1
+  },
+  {
+    "tag": "men'swear",
+    "count": 1
+  },
+  {
+    "tag": "linens",
+    "count": 1
+  },
+  {
+    "tag": "product catalog",
+    "count": 1
+  },
+  {
+    "tag": "shopping platform.",
+    "count": 1
+  },
+  {
+    "tag": "review management",
+    "count": 1
+  },
+  {
+    "tag": "business solutions",
+    "count": 1
+  },
+  {
+    "tag": "online retailers",
+    "count": 1
+  },
+  {
+    "tag": "live chat",
+    "count": 1
+  },
+  {
+    "tag": "question and answer",
+    "count": 1
+  },
+  {
+    "tag": "amazon",
+    "count": 1
+  },
+  {
+    "tag": "aliexpress",
+    "count": 1
+  },
+  {
+    "tag": "etsy",
+    "count": 1
+  },
+  {
+    "tag": "saas.",
+    "count": 1
+  },
+  {
     "tag": "highered",
     "count": 1
   },
@@ -3781,6 +3489,10 @@
   },
   {
     "tag": "gamedesign",
+    "count": 1
+  },
+  {
+    "tag": "arts",
     "count": 1
   },
   {
@@ -4076,10 +3788,6 @@
     "count": 1
   },
   {
-    "tag": "water bottles",
-    "count": 1
-  },
-  {
     "tag": "studentdiscounts",
     "count": 1
   },
@@ -4241,6 +3949,10 @@
   },
   {
     "tag": "wedding guest dresses",
+    "count": 1
+  },
+  {
+    "tag": "newsletters",
     "count": 1
   },
   {
@@ -4408,10 +4120,6 @@
     "count": 1
   },
   {
-    "tag": "decor",
-    "count": 1
-  },
-  {
     "tag": "home shopping",
     "count": 1
   },
@@ -4573,10 +4281,6 @@
   },
   {
     "tag": "lighting solutions",
-    "count": 1
-  },
-  {
-    "tag": "customer reviews",
     "count": 1
   },
   {
@@ -4948,6 +4652,10 @@
     "count": 1
   },
   {
+    "tag": "reference",
+    "count": 1
+  },
+  {
     "tag": "comics",
     "count": 1
   },
@@ -4985,10 +4693,6 @@
   },
   {
     "tag": "kitchen appliances",
-    "count": 1
-  },
-  {
-    "tag": "cookware",
     "count": 1
   },
   {
@@ -5217,6 +4921,10 @@
   },
   {
     "tag": "instagram integration",
+    "count": 1
+  },
+  {
+    "tag": "blogs",
     "count": 1
   },
   {
@@ -5516,10 +5224,6 @@
     "count": 1
   },
   {
-    "tag": "smartphones",
-    "count": 1
-  },
-  {
     "tag": "usa",
     "count": 1
   },
@@ -5529,6 +5233,10 @@
   },
   {
     "tag": "historical-documents",
+    "count": 1
+  },
+  {
+    "tag": "research",
     "count": 1
   },
   {
@@ -5728,11 +5436,11 @@
     "count": 1
   },
   {
-    "tag": "referral",
+    "tag": "loyalty programs",
     "count": 1
   },
   {
-    "tag": "household items",
+    "tag": "referral",
     "count": 1
   },
   {
@@ -5765,6 +5473,14 @@
   },
   {
     "tag": "wellness industry",
+    "count": 1
+  },
+  {
+    "tag": "specialty",
+    "count": 1
+  },
+  {
+    "tag": "shop",
     "count": 1
   },
   {
@@ -6128,6 +5844,10 @@
     "count": 1
   },
   {
+    "tag": "engineering",
+    "count": 1
+  },
+  {
     "tag": "leadership",
     "count": 1
   },
@@ -6177,10 +5897,6 @@
   },
   {
     "tag": "wine",
-    "count": 1
-  },
-  {
-    "tag": "beer",
     "count": 1
   },
   {
@@ -6360,10 +6076,6 @@
     "count": 1
   },
   {
-    "tag": "e-commerce platform",
-    "count": 1
-  },
-  {
     "tag": "high-end audio equipment",
     "count": 1
   },
@@ -6453,6 +6165,10 @@
   },
   {
     "tag": "online-shop",
+    "count": 1
+  },
+  {
+    "tag": "categories",
     "count": 1
   },
   {
@@ -6672,10 +6388,6 @@
     "count": 1
   },
   {
-    "tag": "underwear",
-    "count": 1
-  },
-  {
     "tag": "wear",
     "count": 1
   },
@@ -6792,6 +6504,10 @@
     "count": 1
   },
   {
+    "tag": "online-retail",
+    "count": 1
+  },
+  {
     "tag": "medical-divices",
     "count": 1
   },
@@ -6900,6 +6616,10 @@
     "count": 1
   },
   {
+    "tag": "italian",
+    "count": 1
+  },
+  {
     "tag": "artisans",
     "count": 1
   },
@@ -6957,6 +6677,10 @@
   },
   {
     "tag": "special events.",
+    "count": 1
+  },
+  {
+    "tag": "pricing plans",
     "count": 1
   },
   {

@@ -70,8 +70,8 @@ const TagsToolbar = ({ onTagsSelected }: TagsToolbarProps) => {
   }
 
   return (
-    <div className="sticky top-0 z-10 bg-white dark:bg-gray-800 shadow p-4">
-      <div className="mb-4">
+    <div className="sticky top-0 z-10 bg-white dark:bg-gray-800 shadow p-2 group">
+      <div className="mb-2">
         <input
           type="text"
           placeholder="Search tags..."
@@ -101,7 +101,7 @@ const TagsToolbar = ({ onTagsSelected }: TagsToolbarProps) => {
       </div>
 
       {/* Tags container with scrollbar */}
-      <div className="flex flex-wrap gap-2 max-h-40 overflow-y-auto p-1 border border-gray-200 dark:border-gray-700 rounded-lg">
+      <div className="flex flex-wrap gap-2 max-h-24 group-hover:max-h-48 transition-all duration-300 overflow-y-auto p-1 border border-gray-200 dark:border-gray-700 rounded-lg">
         {filteredTags.length > 0 ? (
           filteredTags.map((tag) => (
             <button

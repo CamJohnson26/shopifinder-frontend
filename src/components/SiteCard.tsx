@@ -28,16 +28,17 @@ const SiteCard = ({ site }: SiteCardProps) => {
       {/* Site Card */}
       <div 
         onClick={handleClick}
-        className="cursor-pointer overflow-hidden rounded-lg shadow-lg transition-transform duration-300 group-hover:shadow-xl"
+        className="cursor-pointer overflow-hidden rounded-lg shadow-lg transition-transform duration-300 group-hover:shadow-xl w-full h-full"
+        style={{ minHeight: '400px', minWidth: '300px' }}
       >
         <img 
           src={imageUrl} 
           alt={site.site_name} 
-          className="w-full site-card-image transition-transform duration-300 group-hover:scale-105"
+          className="w-full site-card-image transition-all duration-300 group-hover:scale-105 group-hover:brightness-50"
         />
 
         {/* Hover overlay with site details */}
-        <div className="absolute inset-0 bg-black bg-opacity-70 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-4 text-white">
+        <div className="absolute inset-0 bg-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-center p-4 text-white">
           <h3 className="text-xl font-bold mb-2">{site.site_name}</h3>
           <p className="text-sm mb-2">{site.url}</p>
           <p className="text-sm mb-2">Ranking: {site.ranking}</p>
@@ -70,7 +71,7 @@ const SiteCard = ({ site }: SiteCardProps) => {
             <div className="flex justify-end gap-4">
               <button 
                 onClick={() => setShowModal(false)}
-                className="px-4 py-2 border border-gray-300 rounded hover:bg-gray-100"
+                className="px-4 py-2 border border-gray-300 rounded hover:bg-gray-100 text-black dark:text-white dark:border-gray-600 dark:hover:bg-gray-700"
               >
                 Cancel
               </button>

@@ -24,8 +24,8 @@ const SitesGrid = () => {
           throw new Error('Failed to fetch sites data');
         }
         const data = await response.json();
-        // Sort sites by ranking (highest rank first)
-        const sortedSites = [...data].sort((a, b) => b.ranking - a.ranking);
+        // Sort sites by ranking (lowest rank first)
+        const sortedSites = [...data].sort((a, b) => a.ranking - b.ranking);
         setSites(sortedSites);
       } catch (err) {
         setError('Error loading sites. Please try again later.');
@@ -116,7 +116,7 @@ const SitesGrid = () => {
 
         {/* Sites grid */}
         {filteredSites.length > 0 ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             {filteredSites.map((site, index) => (
               <SiteCard key={index} site={site} />
             ))}
