@@ -1,0 +1,190 @@
+[
+  {
+    "category": "clothing_active-wear",
+    "count": 365
+  },
+  {
+    "category": "clothing_women",
+    "count": 236
+  },
+  {
+    "category": "clothing_footwear",
+    "count": 231
+  },
+  {
+    "category": "technology_electronics",
+    "count": 168
+  },
+  {
+    "category": "business_software",
+    "count": 162
+  },
+  {
+    "category": "home-goods_home-decor",
+    "count": 161
+  },
+  {
+    "category": "beauty_cosmetics",
+    "count": 115
+  },
+  {
+    "category": "clothing_men",
+    "count": 114
+  },
+  {
+    "category": "health_supplements",
+    "count": 106
+  },
+  {
+    "category": "accessories_jewelry",
+    "count": 105
+  },
+  {
+    "category": "education_books",
+    "count": 85
+  },
+  {
+    "category": "home-goods_kitchenware",
+    "count": 80
+  },
+  {
+    "category": "home-goods_furniture",
+    "count": 75
+  },
+  {
+    "category": "clothing_dresses",
+    "count": 74
+  },
+  {
+    "category": "accessories_bags",
+    "count": 71
+  },
+  {
+    "category": "clothing_intimates",
+    "count": 65
+  },
+  {
+    "category": "clothing_children",
+    "count": 63
+  },
+  {
+    "category": "entertainment_gaming",
+    "count": 53
+  },
+  {
+    "category": "beauty_skin-care",
+    "count": 53
+  },
+  {
+    "category": "health_fitness",
+    "count": 51
+  },
+  {
+    "category": "entertainment_music",
+    "count": 47
+  },
+  {
+    "category": "technology_gadgets",
+    "count": 45
+  },
+  {
+    "category": "accessories_eyewear",
+    "count": 41
+  },
+  {
+    "category": "home-goods_tools",
+    "count": 39
+  },
+  {
+    "category": "health_food-and-drink",
+    "count": 39
+  },
+  {
+    "category": "family_babies",
+    "count": 37
+  },
+  {
+    "category": "entertainment_collectibles",
+    "count": 36
+  },
+  {
+    "category": "beauty_hair",
+    "count": 35
+  },
+  {
+    "category": "vehicles_bicycles",
+    "count": 35
+  },
+  {
+    "category": "outdoors_gardening",
+    "count": 32
+  },
+  {
+    "category": "entertainment_sports",
+    "count": 26
+  },
+  {
+    "category": "family_pets",
+    "count": 26
+  },
+  {
+    "category": "entertainment_news",
+    "count": 25
+  },
+  {
+    "category": "travel_events",
+    "count": 20
+  },
+  {
+    "category": "non-profit_charity",
+    "count": 13
+  },
+  {
+    "category": "entertainment_toys",
+    "count": 11
+  },
+  {
+    "category": "accessories_watches",
+    "count": 11
+  },
+  {
+    "category": "non-profit_religion",
+    "count": 7
+  },
+  {
+    "category": "accessories_fragrance",
+    "count": 7
+  },
+  {
+    "category": "business_bulk-retailers",
+    "count": 3
+  },
+  {
+    "category": "home-goods_art",
+    "count": 3
+  },
+  {
+    "category": "electronics",
+    "count": 2
+  },
+  {
+    "category": "education",
+    "count": 1
+  },
+  {
+    "category": "news",
+    "count": 1
+  },
+  {
+    "category": "non-profit_politics",
+    "count": 1
+  },
+  {
+    "category": "business_analytics",
+    "count": 1
+  },
+  {
+    "category": "technology_photography",
+    "count": 1
+  }
+]
